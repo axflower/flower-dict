@@ -24,8 +24,9 @@ jobs:
       - run: cargo fmt --all -- --check
       - run: cargo test --locked
       - run: cargo clippy --locked --all-targets -- -D warnings
-      - run: python -m unittest scripts.test_lexicon scripts.test_phrases scripts.test_categories
+      - run: python -m unittest scripts.test_lexicon scripts.test_phrases scripts.test_categories scripts.test_vocabulary
       - run: python scripts/build_lexicon.py --check
       - run: python scripts/build_phrases.py --check
       - run: python scripts/build_categories.py --check
+      - run: python scripts/build_vocabulary.py --check
       - run: cargo package --locked --allow-dirty

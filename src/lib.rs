@@ -8,6 +8,8 @@
 
 mod generated;
 pub use generated::{asset, COMMON_USAGE_PAIRS, DEFAULT_TSV, EVERYDAY_TSV, TABLES};
+mod vocabulary;
+pub use vocabulary::{vocabulary, ReadingKind, VocabularyEntry, VOCABULARY_TSV};
 
 /// One original dictionary record, borrowing its source table.
 #[derive(Clone, Copy, Debug, PartialEq, Eq)]
@@ -100,7 +102,7 @@ pub fn all_tables() -> impl Iterator<Item = &'static Table> {
     TABLES.iter()
 }
 
-/// The 16 tables used by the reference default snapshot; no optional names.
+/// The tables used by the default snapshot; no optional names or legacy fixture.
 pub fn default_tables() -> impl Iterator<Item = &'static Table> {
     TABLES.iter().filter(|table| table.default_enabled)
 }

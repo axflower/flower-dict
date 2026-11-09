@@ -3,8 +3,8 @@ use std::collections::HashSet;
 
 #[test]
 fn all_tables_parse_and_default_snapshot_preserves_pairs() {
-    assert_eq!(all_tables().count(), 18);
-    assert_eq!(default_tables().count(), 16);
+    assert_eq!(all_tables().count(), 19);
+    assert_eq!(default_tables().count(), 17);
     assert!(!table("proper").unwrap().default_enabled);
     assert!(!table("legacy-mvp").unwrap().default_enabled);
     let mut all_ids = HashSet::new();
@@ -30,7 +30,7 @@ fn all_tables_parse_and_default_snapshot_preserves_pairs() {
             assert_eq!(count, 803);
         }
     }
-    assert_eq!(default_pairs.len(), 201109);
+    assert_eq!(default_pairs.len(), 2088650);
     let combined: HashSet<_> = entries(DEFAULT_TSV)
         .map(|r| {
             let e = r.unwrap();
@@ -40,6 +40,61 @@ fn all_tables_parse_and_default_snapshot_preserves_pairs() {
     assert_eq!(default_pairs, combined);
     assert!(combined.contains(&("qing'xu'jia'zhi", "情绪价值")));
     assert!(combined.contains(&("beng'bu'zhu'le", "蚌埠住了")));
+}
+
+#[test]
+fn complete_vocabulary_preserves_literals_and_tracks_automatic_readings() {
+    use flower_dictionary::{vocabulary, ReadingKind};
+    let mut previous = None;
+    let mut automatic = HashSet::new();
+    let mut counts = [0_usize; 4];
+    let mut examples = std::collections::HashMap::new();
+    let wanted = [
+        "情绪价值",
+        "人工智能与大数据",
+        "X光",
+        "😆",
+        "♔",
+        "⌝⌞⌟",
+        "𲎮",
+    ];
+    for result in vocabulary() {
+        let word = result.unwrap();
+        if let Some(previous) = previous {
+            assert!(previous < word.text);
+        }
+        previous = Some(word.text);
+        match word.reading_kind {
+            ReadingKind::Existing => counts[0] += 1,
+            ReadingKind::Automatic => {
+                counts[1] += 1;
+                automatic.insert(word.text);
+            }
+            ReadingKind::Literal => counts[2] += 1,
+            ReadingKind::Unresolved => counts[3] += 1,
+        }
+        if wanted.contains(&word.text) {
+            examples.insert(word.text, word.reading_kind);
+        }
+    }
+    assert_eq!(counts, [192527, 1887541, 42662, 45313]);
+    assert_eq!(counts.iter().sum::<usize>(), 2168043);
+    assert_eq!(examples.len(), wanted.len());
+    assert_eq!(examples["情绪价值"], ReadingKind::Existing);
+    assert_eq!(examples["人工智能与大数据"], ReadingKind::Automatic);
+    assert_eq!(examples["𲎮"], ReadingKind::Unresolved);
+    for text in ["X光", "😆", "♔", "⌝⌞⌟"] {
+        assert_eq!(examples[text], ReadingKind::Literal);
+    }
+    let expanded = table("expanded").unwrap();
+    assert!(expanded.default_enabled);
+    for result in expanded.entries() {
+        let entry = result.unwrap();
+        assert_eq!(entry.weight, 1);
+        assert!(automatic.remove(entry.text));
+        assert_eq!(entry.pinyin.split('\'').count(), entry.text.chars().count());
+    }
+    assert!(automatic.is_empty());
 }
 
 #[test]
