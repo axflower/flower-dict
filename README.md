@@ -1,8 +1,8 @@
-# flower-dictionary
+# flower-dict
 
 可复用、完全离线的中文拼音词库。它是数据包，不是输入法引擎：不依赖Flower、Windows、TSF、网络、用户配置或AI运行时，可供其他输入法、检索和文本工具使用。
 
-当前源码版本为 **0.2.0本地候选**，尚未发布到crates.io。全量词目与可拼音读取的数据分别提供：
+当前源码版本为 **flower-dict 0.2.0**，通过GitHub分发完整词库，不再以发布到crates.io作为Flower接入的前提。仓库更名及更名提交同步后可使用下面的Git依赖；实际解析提交由消费者Cargo.lock锁定。全量词目与可拼音读取的数据分别提供：
 
 | 项目 | 数量 |
 |---|---:|
@@ -17,12 +17,11 @@
 
 ```toml
 [dependencies]
-# 0.2.0发布后使用；当前可在本地checkout通过path依赖验证
-flower-dictionary = "=0.2.0"
+flower-dict = { git = "https://github.com/axflower/flower-dict.git", branch = "main", version = "=0.2.0" }
 ```
 
 ```rust
-use flower_dictionary::{default_tables, entries};
+use flower_dict::{default_tables, entries};
 
 for table in default_tables() {
     for result in table.entries() {
@@ -32,7 +31,7 @@ for table in default_tables() {
         let _ = (entry.pinyin, entry.text, entry.weight);
     }
 }
-# Ok::<(), flower_dictionary::ParseError>(())
+# Ok::<(), flower_dict::ParseError>(())
 ```
 
 ## 数据接口
@@ -50,7 +49,7 @@ for table in default_tables() {
 不同表可能重合，默认迭代保留记录而不暗中去重。当前默认表并集为2,088,650个拼音/文字对；消费者可按词对合并并取最大权重。新增扩充表统一使用项目权重1，旧词对及权重保留原值。字表、词组和人工表权重的语料来源不同，不应当成统一统计概率。全拼、简拼、混拼索引、分词、候选排序、学习和用户文件由消费者自己实现。无Rust消费者也可读取公开TSV进行转换。完整静态数据会增加编译产物和消费者索引的体积，消费者应自行评估加载时间与内存。
 
 ```rust
-use flower_dictionary::{vocabulary, ReadingKind};
+use flower_dict::{vocabulary, ReadingKind};
 for result in vocabulary() {
     let word = result?;
     if word.reading_kind == ReadingKind::Unresolved {
@@ -58,14 +57,14 @@ for result in vocabulary() {
         let _ = word.text;
     }
 }
-# Ok::<(), flower_dictionary::ParseError>(())
+# Ok::<(), flower_dict::ParseError>(())
 ```
 
 ## 格式与来源
 
 拼音TSV三列为`拼音<TAB>文字<TAB>权重`，每行LF，UTF-8。既有单字和规范词保留原读音；儿化表保留明确的末尾r，不机械替换为er。旧MVP仅为历史fixture，不作为规范词音来源。新增词目优先复用已有精确整词读音，否则使用pypinyin 0.55.0自动推导；未知字保持待补状态，不生成多音字笛卡尔积。
 
-完整词目TSV为`文字<TAB>状态`，状态`E/A/L/U`分别对应上述四个`ReadingKind`。文字不做繁简转换、大小写折叠或符号拆分；例如`X光`、`♔`和`⌝⌞⌟`均按原文字整体保留。约定词典及辅助运行候选的覆盖基准为2,154,359项，集合差集为0；工具检查片段、错词负例、内部控制标记和程序动态生成的无限输出不属于词目范围。契约见`design/vocabulary-0.2.0.md`。
+完整词目TSV为`文字<TAB>状态`，状态`E/A/L/U`分别对应上述四个`ReadingKind`。文字不做繁简转换、大小写折叠或符号拆分；例如`X光`、`♔`和`⌝⌞⌟`均按原文字整体保留。约定词典及辅助运行候选的覆盖基准为2,154,359项，集合差集为0；工具检查片段、错词负例、内部控制标记和程序动态生成的无限输出不属于词目范围。生成数量与摘要见`data/pinyin/vocabulary/coverage.json`。
 
 包含Unihan单字、CC-CEDICT/jieba词组、THUOCL分类及项目独立人工短语。完整来源固定版本、URL、摘要、覆盖与修改说明见`data/pinyin/`中的manifest、coverage和NOTICE。运行数据中没有私人用户词、聊天文本、学习历史或AI模型。
 
@@ -88,8 +87,7 @@ python scripts/build_vocabulary.py --check
 # 只有需要重新生成注音时运行：
 # python scripts/build_vocabulary.py --refresh
 cargo test
-cargo package --allow-dirty
-cargo publish --dry-run --allow-dirty
+cargo clippy --all-targets -- -D warnings
 ```
 
-任何数据更新须同步来源摘要、派生覆盖、消费者可信清单和版本；不要只更新散列来掩盖不一致。发布到crates.io前核对最终归档与账号权限；`--dry-run`不是已经发布。
+任何数据更新须同步来源摘要、派生覆盖、消费者可信清单和版本；不要只更新散列来掩盖不一致。通过GitHub同步后，消费者先用`cargo metadata`核对Git源和实际提交，再提交更新后的Cargo.lock；`--locked --offline`需要已经获取该提交。完整词库不拆成多个crate，Git依赖不受crates.io的单包上传体积限制。

@@ -3,5 +3,5 @@
 version = 3
 
 [[package]]
-name = "flower-dictionary"
+name = "flower-dict"
 version = "0.2.0"

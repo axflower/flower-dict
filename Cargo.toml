@@ -1,11 +1,11 @@
 [package]
-name = "flower-dictionary"
+name = "flower-dict"
 version = "0.2.0"
 edition = "2021"
 rust-version = "1.75"
 description = "Reusable offline Chinese Pinyin lexicon tables, provenance and zero-copy Rust access"
 license-file = "NOTICE.md"
-repository = "https://github.com/axflower/flower-dictionary"
+repository = "https://github.com/axflower/flower-dict"
 readme = "README.md"
 keywords = ["pinyin", "dictionary", "chinese", "ime", "lexicon"]
 categories = ["text-processing", "internationalization"]

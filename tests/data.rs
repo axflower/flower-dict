@@ -1,4 +1,4 @@
-use flower_dictionary::{all_tables, default_tables, entries, table, DEFAULT_TSV};
+use flower_dict::{all_tables, default_tables, entries, table, DEFAULT_TSV};
 use std::collections::HashSet;
 
 #[test]
@@ -13,7 +13,7 @@ fn all_tables_parse_and_default_snapshot_preserves_pairs() {
         assert!(all_ids.insert(source.id));
         assert!(!source.license.is_empty());
         assert_eq!(
-            flower_dictionary::asset(source.path).unwrap(),
+            flower_dict::asset(source.path).unwrap(),
             source.tsv.as_bytes()
         );
         let mut count = 0;
@@ -44,7 +44,7 @@ fn all_tables_parse_and_default_snapshot_preserves_pairs() {
 
 #[test]
 fn complete_vocabulary_preserves_literals_and_tracks_automatic_readings() {
-    use flower_dictionary::{vocabulary, ReadingKind};
+    use flower_dict::{vocabulary, ReadingKind};
     let mut previous = None;
     let mut automatic = HashSet::new();
     let mut counts = [0_usize; 4];
@@ -115,16 +115,15 @@ fn parser_reports_one_based_lines_and_continues() {
         assert!(entries(invalid).next().unwrap().is_err(), "{invalid}");
     }
     assert!(table("unknown").is_none());
-    assert!(flower_dictionary::asset("../Cargo.toml").is_none());
-    assert!(flower_dictionary::asset("E:/private").is_none());
+    assert!(flower_dict::asset("../Cargo.toml").is_none());
+    assert!(flower_dict::asset("E:/private").is_none());
 }
 
 #[test]
 fn baseline_and_licenses_are_packaged_assets() {
-    let baseline = std::str::from_utf8(
-        flower_dictionary::asset("data/pinyin/sources/kMandarin_8105.txt").unwrap(),
-    )
-    .unwrap();
+    let baseline =
+        std::str::from_utf8(flower_dict::asset("data/pinyin/sources/kMandarin_8105.txt").unwrap())
+            .unwrap();
     assert_eq!(
         baseline
             .lines()
@@ -133,9 +132,7 @@ fn baseline_and_licenses_are_packaged_assets() {
         8105
     );
     assert_eq!(
-        flower_dictionary::COMMON_USAGE_PAIRS
-            .split_whitespace()
-            .count(),
+        flower_dict::COMMON_USAGE_PAIRS.split_whitespace().count(),
         135
     );
     for name in [
@@ -143,6 +140,6 @@ fn baseline_and_licenses_are_packaged_assets() {
         "data/pinyin/phrases/sources/CC-BY-SA-4.0.txt",
         "data/pinyin/sources/thuocl/LICENSE",
     ] {
-        assert!(flower_dictionary::asset(name).unwrap().len() > 1000);
+        assert!(flower_dict::asset(name).unwrap().len() > 1000);
     }
 }
