@@ -1,0 +1,4 @@
+# Source snapshots, tables and generated reports are byte-locked.
+data/** -text
+licenses/** -text
+LICENSE-MIT -text

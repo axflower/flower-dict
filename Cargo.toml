@@ -1,0 +1,14 @@
+[package]
+name = "flower-dictionary"
+version = "0.1.0"
+edition = "2021"
+rust-version = "1.75"
+description = "Reusable offline Chinese Pinyin lexicon tables, provenance and zero-copy Rust access"
+license = "MIT AND Unicode-3.0 AND CC-BY-SA-4.0"
+repository = "https://github.com/axflower/flower-dictionary"
+readme = "README.md"
+keywords = ["pinyin", "dictionary", "chinese", "ime", "lexicon"]
+categories = ["text-processing", "internationalization"]
+include = ["src/**", "tests/**", "Cargo.toml", "README.md", "NOTICE.md", "LICENSE-MIT", "licenses/**", "data/pinyin/base_lexicon.tsv", "data/pinyin/categories/animal.tsv", "data/pinyin/categories/caijing.tsv", "data/pinyin/categories/car.tsv", "data/pinyin/categories/cedict_supplement.tsv", "data/pinyin/categories/chengyu.tsv", "data/pinyin/categories/coverage.json", "data/pinyin/categories/diming.tsv", "data/pinyin/categories/erhua.tsv", "data/pinyin/categories/food.tsv", "data/pinyin/categories/IT.tsv", "data/pinyin/categories/law.tsv", "data/pinyin/categories/lishimingren.tsv", "data/pinyin/categories/manifest.json", "data/pinyin/categories/medical.tsv", "data/pinyin/categories/NOTICE.md", "data/pinyin/categories/poem.tsv", "data/pinyin/common_usage_pairs.txt", "data/pinyin/coverage.json", "data/pinyin/everyday_phrases.md", "data/pinyin/everyday_phrases.tsv", "data/pinyin/mvp_lexicon.tsv", "data/pinyin/phrases/coverage.json", "data/pinyin/phrases/manifest.json", "data/pinyin/phrases/NOTICE.md", "data/pinyin/phrases/phrase_lexicon.tsv", "data/pinyin/phrases/proper_lexicon.tsv", "data/pinyin/phrases/quality-cases.json", "data/pinyin/phrases/sources/CC-BY-SA-4.0.txt", "data/pinyin/phrases/sources/dict.txt", "data/pinyin/phrases/sources/LICENSE-jieba.txt", "data/pinyin/sources/kMandarin_8105.txt", "data/pinyin/sources/LICENSE-pinyin-data.txt", "data/pinyin/sources/manifest.json", "data/pinyin/sources/NOTICE.md", "data/pinyin/sources/thuocl/LICENSE", "data/pinyin/sources/thuocl/manifest.json", "data/pinyin/sources/thuocl/README.md", "data/pinyin/sources/UNICODE-LICENSE.txt", "scripts/build_lexicon.py", "scripts/build_phrases.py", "scripts/build_categories.py"]
+
+[dependencies]
