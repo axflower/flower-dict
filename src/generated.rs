@@ -24,6 +24,7 @@ pub const DEFAULT_TSV: &str = concat!(
     include_str!("../data/pinyin/categories/cedict_supplement.tsv"),
     include_str!("../data/pinyin/categories/erhua.tsv"),
     include_str!("../data/pinyin/vocabulary/expanded.tsv"),
+    include_str!("../data/pinyin/rime_ice/lexicon.tsv"),
 );
 pub static TABLES: &[Table] = &[
     Table {
@@ -159,10 +160,32 @@ pub static TABLES: &[Table] = &[
         default_enabled: true,
         license: "NOASSERTION",
     },
+    Table {
+        id: "source-phrases",
+        path: "data/pinyin/rime_ice/lexicon.tsv",
+        tsv: include_str!("../data/pinyin/rime_ice/lexicon.tsv"),
+        default_enabled: true,
+        license: "GPL-3.0-only",
+    },
 ];
 /// Packaged public asset bytes by exact repository-relative path; unknown paths return None.
 pub fn asset(path: &str) -> Option<&'static [u8]> {
     match path {
+        "data/pinyin/rime_ice/lexicon.tsv" => {
+            Some(include_bytes!("../data/pinyin/rime_ice/lexicon.tsv"))
+        }
+        "data/pinyin/rime_ice/coverage.json" => {
+            Some(include_bytes!("../data/pinyin/rime_ice/coverage.json"))
+        }
+        "data/pinyin/rime_ice/NOTICE.md" => {
+            Some(include_bytes!("../data/pinyin/rime_ice/NOTICE.md"))
+        }
+        "data/pinyin/sources/rime_ice/LICENSE" => {
+            Some(include_bytes!("../data/pinyin/sources/rime_ice/LICENSE"))
+        }
+        "data/pinyin/sources/rime_ice/manifest.json" => Some(include_bytes!(
+            "../data/pinyin/sources/rime_ice/manifest.json"
+        )),
         "data/pinyin/vocabulary/expanded.tsv" => {
             Some(include_bytes!("../data/pinyin/vocabulary/expanded.tsv"))
         }

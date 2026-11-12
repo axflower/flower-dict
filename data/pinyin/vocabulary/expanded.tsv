@@ -1699,6 +1699,7 @@ a'luo'xi'lin	阿洛西林	1
 a'luo'xi'lin'na	阿洛西林钠	1
 a'luo'yi	阿洛伊	1
 a'luo'yi'si	阿洛伊斯	1
+a'luo'yi'xi	阿洛伊西	1
 a'luo'yi'xi'ao	阿洛伊西奥	1
 a'luo'yue	阿羅約	1
 a'ma	阿媽	1
@@ -3283,6 +3284,7 @@ ai'de'ding'yi	爱的定义	1
 ai'de'dong'zuo	爱的动作	1
 ai'de'dui'xiang	爱的对象	1
 ai'de'duo	爱得多	1
+ai'de'duo	矮得多	1
 ai'de'er	埃德尔	1
 ai'de'er	艾德尔	1
 ai'de'er'ba'ding'lv	爱的二八定律	1
@@ -4211,6 +4213,7 @@ ai'he'zun'zhong	爱和尊重	1
 ai'hen	愛恨	1
 ai'hen	爱恨	1
 ai'hen'ai	爱很爱	1
+ai'hen'duo	矮很多	1
 ai'hen'fen'ming	愛恨分明	1
 ai'hen'fen'ming	爱恨分明	1
 ai'hen'fu'za	爱很复杂	1
@@ -4458,6 +4461,7 @@ ai'jiang'shan	爱江山	1
 ai'jiang'shan'geng'ai'mei'ren	爱江山更爱美人	1
 ai'jiang'tou	哀江头	1
 ai'jiao	哀叫	1
+ai'jiao	爱叫	1
 ai'jiao	爱教	1
 ai'jiao	矮脚	1
 ai'jiao	矮腳	1
@@ -4465,6 +4469,7 @@ ai'jiao	碍脚	1
 ai'jiao'di'wen'geng	矮脚狄文㹴	1
 ai'jiao'hu	矮脚虎	1
 ai'jiao'hu'wang'ying	矮脚虎王英	1
+ai'jiao'huan	爱叫唤	1
 ai'jiao'huang	矮脚黄	1
 ai'jiao'ji	爱交际	1
 ai'jiao'ma	矮脚马	1
@@ -4479,6 +4484,7 @@ ai'jie'bu'jie	爱接不接	1
 ai'jie'jie	爱姐姐	1
 ai'jie'te	艾杰特	1
 ai'jie'xi	艾杰西	1
+ai'jie'xu	艾杰旭	1
 ai'jin	捱近	1
 ai'jin'cheng'chuang	哀矜惩创	1
 ai'jin'jin'ji'jiao	爱斤斤计较	1
@@ -17721,6 +17727,8 @@ ao'wei'ying'ge'yu	凹尾鹦哥鱼	1
 ao'wei'yun'wang	奥维云网	1
 ao'wei'zi'xun	奥纬咨询	1
 ao'wen'ben'du	奥文本杜	1
+ao'wen'ben'du'ren	奥文本杜人	1
+ao'wo'nuo	奥沃诺	1
 ao'wu	傲物	1
 ao'wu	嗷呜	1
 ao'wu'ao'wu	嗷呜嗷呜	1
@@ -22204,6 +22212,7 @@ ba'luo'bo	拔蘿蔔	1
 ba'luo'er	巴洛尔	1
 ba'luo'fu	巴罗夫	1
 ba'luo'gong	巴洛贡	1
+ba'luo'ka'er	巴罗卡尔	1
 ba'luo'ke	巴羅克	1
 ba'luo'ke'feng	巴洛克风	1
 ba'luo'ke'feng'ge	巴洛克风格	1
@@ -39887,6 +39896,7 @@ ban'zhuan'wan'jia	搬砖玩家	1
 ban'zhuan'ye	半专业	1
 ban'zhuan'za'jiao	搬磚砸腳	1
 ban'zhuan'zhuan'qian	搬砖赚钱	1
+ban'zhuang	半妆	1
 ban'zhuang	扮裝	1
 ban'zhuang	板樁	1
 ban'zhuang	瓣状	1
@@ -54750,6 +54760,8 @@ bei'dai'dao	被逮到	1
 bei'dai'dong	被带动	1
 bei'dai'duan'ku	背带短裤	1
 bei'dai'fei	被带飞	1
+bei'dai'gou'li	被带沟里	1
+bei'dai'gou'li'qu	被带沟里去	1
 bei'dai'he'hai'bin	北戴河海滨	1
 bei'dai'he'hui'yi	北戴河会议	1
 bei'dai'he'huo'che'zhan	北戴河火车站	1
@@ -59810,6 +59822,7 @@ bei'la	被拉	1
 bei'la	貝拉	1
 bei'la'chang	被拉长	1
 bei'la'che	被拉扯	1
+bei'la'da	贝拉达	1
 bei'la'dao	被辣到	1
 bei'la'di	被拉低	1
 bei'la'dong	被拉动	1
@@ -78708,8 +78721,10 @@ bian'qiang'le	变强了	1
 bian'qiang'zhi'lu	变强之路	1
 bian'qiang'zhuang	变强壮	1
 bian'qiao	便橋	1
+bian'qiao	扁锹	1
 bian'qiao'bian	边敲边	1
 bian'qiao'bian'chang	边敲边唱	1
+bian'qiao'jia	扁锹甲	1
 bian'qing	变清	1
 bian'qing	变轻	1
 bian'qing	变青	1
@@ -83739,6 +83754,7 @@ bie'bu'zhu'xiang	憋不住想	1
 bie'bu'zhu'xiao	憋不住笑	1
 bie'cai	别猜	1
 bie'cai	别裁	1
+bie'cai	别踩	1
 bie'cai'bai'kuai	别踩白块	1
 bie'cai'bai'kuai'er	别踩白块儿	1
 bie'cai'lei	别踩雷	1
@@ -84091,9 +84107,11 @@ bie'dong'tian	别洞天	1
 bie'dong'wo	别动我	1
 bie'dong'wo'lao'gong	别动我老公	1
 bie'dong'zhe'le	别冻着了	1
+bie'dou	别抖	1
 bie'dou	别逗	1
 bie'dou	别都	1
 bie'dou'a	别逗啊	1
+bie'dou'le	别抖了	1
 bie'dou'le	别逗了	1
 bie'dou'le'hao'ma	别逗了好吗	1
 bie'dou'qi	别斗气	1
@@ -85754,11 +85772,15 @@ bie'tian'luan	别添乱	1
 bie'tian'luan'le	别添乱了	1
 bie'tian'shen	别天神	1
 bie'tian'xie	别填写	1
+bie'tiao	别挑	1
+bie'tiao	别跳	1
 bie'tiao'bo	别挑拨	1
 bie'tiao'bo'le	别挑拨了	1
+bie'tiao'le	别挑了	1
 bie'tiao'pi	别调皮	1
 bie'tiao'shi	别挑事	1
 bie'tiao'shi'er	别挑事儿	1
+bie'tiao'ti	别挑剔	1
 bie'ting	别停	1
 bie'ting	别听	1
 bie'ting'shou	别停手	1
@@ -111933,6 +111955,7 @@ bu'qiao'men	不敲门	1
 bu'qiao'qiao	不瞧瞧	1
 bu'qiao'qiao'qu	不瞧瞧去	1
 bu'qie	不切	1
+bu'qie	不怯	1
 bu'qie'chang	不怯场	1
 bu'qie'duan	不切断	1
 bu'qie'er	布切尔	1
@@ -113485,6 +113508,7 @@ bu'shao'xiao'huo'ban	不少小伙伴	1
 bu'shao'xiao'huo'ban'biao'shi	不少小伙伴表示	1
 bu'shao'xiao'peng'you	不少小朋友	1
 bu'shao'xiao'qu	不少小区	1
+bu'shao'xin	不烧心	1
 bu'shao'xin'ren	不少新人	1
 bu'shao'xuan'shou	不少选手	1
 bu'shao'xue'sheng	不少学生	1
@@ -116710,6 +116734,7 @@ bu'tai'lin'se	不太吝啬	1
 bu'tai'ling	不太灵	1
 bu'tai'ling'guang	不太灵光	1
 bu'tai'ling'huo	不太灵活	1
+bu'tai'ling'min	不太灵敏	1
 bu'tai'liu'xing	不太流行	1
 bu'tai'liu'xing'le	不太流行了	1
 bu'tai'long'tong	不太笼统	1
@@ -121268,6 +121293,7 @@ bu'xu'fan'hui	不许反悔	1
 bu'xu'fang'zou	不许放走	1
 bu'xu'fei	不续费	1
 bu'xu'geng'dai'fei'zi'xiao	不须更待妃子笑	1
+bu'xu'gui	不许跪	1
 bu'xu'he	不许和	1
 bu'xu'he	不许喝	1
 bu'xu'hei	不许黑	1
@@ -121915,6 +121941,9 @@ bu'yao'dong'shou	不要动手	1
 bu'yao'dong'ta	不要动他	1
 bu'yao'dong'yao	不要动摇	1
 bu'yao'dou	不要抖	1
+bu'yao'dou	不要逗	1
+bu'yao'dou'le	不要抖了	1
+bu'yao'dou'le	不要逗了	1
 bu'yao'du	不要读	1
 bu'yao'du	不要赌	1
 bu'yao'du'bo	不要赌博	1
@@ -126970,6 +126999,7 @@ bu'zhun'da	不准打	1
 bu'zhun'da'bai'tiao	不准打白条	1
 bu'zhun'dong	不准动	1
 bu'zhun'fan'yin	不准翻印	1
+bu'zhun'gui	不准跪	1
 bu'zhun'hui'tou'kan	不准回头看	1
 bu'zhun'jiao	不准叫	1
 bu'zhun'jie'jin	不准接近	1
@@ -141868,6 +141898,7 @@ ce'yan'zhi	测颜值	1
 ce'yan'zhi	测验纸	1
 ce'yan'zhi	測驗紙	1
 ce'yang'yi	测氧仪	1
+ce'yao	侧腰	1
 ce'yao'xian	侧腰线	1
 ce'ye	冊葉	1
 ce'ye	冊頁	1
@@ -166342,6 +166373,7 @@ chen'li'si	陈丽斯	1
 chen'li'teng	陈礼腾	1
 chen'li'wei	陈立伟	1
 chen'li'wen	陈立文	1
+chen'li'wu	陈立武	1
 chen'li'xi	陈立希	1
 chen'li'xia	陈丽霞	1
 chen'li'xian	陈历贤	1
@@ -167302,6 +167334,7 @@ chen'shu'zhong	陈述中	1
 chen'shu'zhuang	陈淑庄	1
 chen'shuang	晨霜	1
 chen'shuang'shuang	陈双双	1
+chen'shui	沉水	1
 chen'shui'bai'nian	沉睡百年	1
 chen'shui'bian	陳水扁	1
 chen'shui'bu'xing	沉睡不醒	1
@@ -167327,6 +167360,7 @@ chen'shui'shan	沉水山	1
 chen'shui'shi	沉睡时	1
 chen'shui'xia'gu	沉睡峡谷	1
 chen'shui'xiang	沉水香	1
+chen'shui'ye	沉水叶	1
 chen'shui'yi'jiu	沉睡已久	1
 chen'shui'zhe	沉睡者	1
 chen'shui'zhi'wu	沉睡之雾	1
@@ -201611,6 +201645,7 @@ chuan'shan'er'guo	穿山而過	1
 chuan'shan'gan	川陕甘	1
 chuan'shan'ge'ming'gen'ju'di	川陕革命根据地	1
 chuan'shan'he	穿山河	1
+chuan'shan'hua'jiao	川陕花椒	1
 chuan'shan'jia'lin'pian	穿山甲鳞片	1
 chuan'shan'jie'dao	穿山街道	1
 chuan'shan'long	穿山龙	1
@@ -209478,6 +209513,7 @@ chun'lai	春來	1
 chun'lai	春来	1
 chun'lai'bian'shi'tao'hua'shui	春来遍是桃花水	1
 chun'lai'cao'zi'qing	春来草自青	1
+chun'lai'cao'zi'sheng	春来草自生	1
 chun'lai'chuo'yue'xiang'ren'shi	春来绰约向人时	1
 chun'lai'dao	春来到	1
 chun'lai'fa'ji'zhi	春来发几枝	1
@@ -225572,6 +225608,7 @@ da'de'xiang	大得像	1
 da'de'xiang	打得像	1
 da'de'xiang	打得响	1
 da'de'xiao'de	大的小的	1
+da'de'xiong	打得凶	1
 da'de'yang'zi	大的样子	1
 da'de'yao'lai	大的要来	1
 da'de'yao'lai'le	大的要来了	1
@@ -230506,6 +230543,7 @@ da'jie'feng	搭接缝	1
 da'jie'fu	大姐夫	1
 da'jie'gao'feng	大节高风	1
 da'jie'gou	大结构	1
+da'jie'guo	大结果	1
 da'jie'han	搭接焊	1
 da'jie'hao	大姐好	1
 da'jie'ji	打街机	1
@@ -235535,6 +235573,7 @@ da'peng'zhen	大鹏镇	1
 da'peng'zhong	大棚中	1
 da'peng'zhong'zhi	大棚种植	1
 da'peng'zhuang	大碰撞	1
+da'peng'zi	大棚子	1
 da'peng'zi	搭棚子	1
 da'pi	大埤	1
 da'pi	打坯	1
@@ -235917,6 +235956,7 @@ da'pu'dong'er'hao	大浦洞二号	1
 da'pu'dong'hua	大浦冬华	1
 da'pu'er	大谱儿	1
 da'pu'gao'su	大浦高速	1
+da'pu'huo	大普货	1
 da'pu'ji	大普及	1
 da'pu'ke'pai	打扑克牌	1
 da'pu'la	达普拉	1
@@ -245291,6 +245331,7 @@ da'zhui'qiu	大追求	1
 da'zhui'sha	大追杀	1
 da'zhui'zong	大追踪	1
 da'zhun'kao'zheng	打准考证	1
+da'zhuo	大桌	1
 da'zhuo'qiu	打桌球	1
 da'zhuo'shou'dian	打着手电	1
 da'zhuo'shou'dian'tong	打着手电筒	1
@@ -246886,6 +246927,7 @@ dai'gou	代溝	1
 dai'gou	代購	1
 dai'gou	带够	1
 dai'gou	带狗	1
+dai'gou	带钩	1
 dai'gou	帶夠	1
 dai'gou	待购	1
 dai'gou	戴夠	1
@@ -246899,6 +246941,7 @@ dai'gou'gou	带狗狗	1
 dai'gou'gou'chu'men	带狗狗出门	1
 dai'gou'hang'ye	代购行业	1
 dai'gou'li	带沟里	1
+dai'gou'li'qu	带沟里去	1
 dai'gou'liang	带狗粮	1
 dai'gou'men	代购们	1
 dai'gou'nai'fen	代购奶粉	1
@@ -255771,6 +255814,7 @@ dan'zhi'xi'chong'bing	单殖吸虫病	1
 dan'zhi'xiao'yao'jiao'nang	丹栀逍遥胶囊	1
 dan'zhi'xing'fu'mo'yan	胆汁性腹膜炎	1
 dan'zhi'xing'gan'ying'hua	胆汁性肝硬化	1
+dan'zhi'xing'hao'shi	但知行好事	1
 dan'zhi'xue'zheng	氮质血症	1
 dan'zhi'ya'gang	单殖亚纲	1
 dan'zhi'yao	但只要	1
@@ -268624,6 +268668,7 @@ de'guo'xi'nan'bu	德国西南部	1
 de'guo'xia'sa'ke'sen'zhou	德国下萨克森州	1
 de'guo'xiang'chang	德国香肠	1
 de'guo'xiao'shou	德国销售	1
+de'guo'xiao'te	德国肖特	1
 de'guo'xiao'zhen	德国小镇	1
 de'guo'xin'wen	德国新闻	1
 de'guo'xin'zang'bing	德国心脏病	1
@@ -275728,6 +275773,7 @@ di'chuan	敵船	1
 di'chuan	遞傳	1
 di'chuan'di'zi	嫡传弟子	1
 di'chuang	低创	1
+di'chui'de'guo'shi	低垂的果实	1
 di'chui'zhe	低垂着	1
 di'chui'zhe'tou	低垂着头	1
 di'chun'du	低纯度	1
@@ -288783,6 +288829,7 @@ dian'bao	电刨	1
 dian'bao	電報	1
 dian'bao'bao	店宝宝	1
 dian'bao'bao	电报报	1
+dian'bao'bao'wen	电报报文	1
 dian'bao'da'lou	电报大楼	1
 dian'bao'fei	电报费	1
 dian'bao'fei	電報費	1
@@ -300798,6 +300845,8 @@ diao'zha'shao'bing	掉渣烧饼	1
 diao'zha'tian	屌炸天	1
 diao'zha'tian'le	屌炸天了	1
 diao'zha'tian'le'a	屌炸天了啊	1
+diao'zha'zha	掉渣渣	1
+diao'zha'zi	掉渣子	1
 diao'zhang	調漲	1
 diao'zhang'hui'ju	雕章繢句	1
 diao'zhang'hui'ju	雕章繪句	1
@@ -301923,6 +301972,7 @@ ding'de	定的	1
 ding'de	订的	1
 ding'de	顶的	1
 ding'de'bi	定得比	1
+ding'de'bu'jin	盯得不紧	1
 ding'de'ding	钉的钉	1
 ding'de'ding'er	钉的钉儿	1
 ding'de'ding'zi	钉的钉子	1
@@ -301935,6 +301985,8 @@ ding'de'qi	顶得起	1
 ding'de'qi'lai	顶得起来	1
 ding'de'shang	顶得上	1
 ding'de'shi	定的是	1
+ding'de'yan	盯得严	1
+ding'de'yan'yi'dian	盯得严一点	1
 ding'de'zhu	顶得住	1
 ding'de'zhu'a	顶得住啊	1
 ding'de'zhu'ya'li	顶得住压力	1
@@ -302935,6 +302987,8 @@ ding'jin'qu	钉进去	1
 ding'jin'qu	顶进去	1
 ding'jin'tiao'kuan	定金条款	1
 ding'jin'xie'yi	定金协议	1
+ding'jin'yi'dian	盯紧一点	1
+ding'jin'yi'dian'er	盯紧一点儿	1
 ding'jin'yu'shou	定金预售	1
 ding'jin'zhi'fu	定金支付	1
 ding'jin'zhong'dian	盯紧重点	1
@@ -304345,7 +304399,11 @@ ding'ya'gong'fang	定压功放	1
 ding'yan	定讞	1
 ding'yan	钉眼	1
 ding'yan'dan	定颜丹	1
+ding'yan'dian	盯严点	1
+ding'yan'dian'er	盯严点儿	1
 ding'yan'yan	丁艳燕	1
+ding'yan'yi'dian	盯严一点	1
+ding'yan'yi'dian'er	盯严一点儿	1
 ding'yan'yi'kan	定眼一看	1
 ding'yan'yu'hang	丁彦雨航	1
 ding'yan'zhu	定颜珠	1
@@ -308029,6 +308087,9 @@ dong'guo'dao'zi	动过刀子	1
 dong'guo'de	冻过的	1
 dong'guo'jian	董国建	1
 dong'guo'li	冬果梨	1
+dong'guo'nao	动过脑	1
+dong'guo'nao'jin	动过脑筋	1
+dong'guo'nao'zi	动过脑子	1
 dong'guo'ren	懂国人	1
 dong'guo'shou	动过手	1
 dong'guo'shou'jiao	动过手脚	1
@@ -310634,6 +310695,7 @@ dong'qiu'zhi'bo	懂球直播	1
 dong'qu	东去	1
 dong'qu	東區	1
 dong'qu	東去	1
+dong'qu'bing'xu'pan	冬去冰须泮	1
 dong'qu'chun	冬去春	1
 dong'qu'chun'gui	冬去春归	1
 dong'qu'chun'lai	冬去春来	1
@@ -312542,6 +312604,7 @@ dong'xiao'yu	董晓宇	1
 dong'xiao'zhai'cun	东小寨村	1
 dong'xiao'zhuang	东小庄	1
 dong'xie	东邪	1
+dong'xie	冬歇	1
 dong'xie'huang'yao'shi	东邪黄药师	1
 dong'xie'qi'hou	冬歇期后	1
 dong'xie'shi'shu	懂些诗书	1
@@ -324076,6 +324139,7 @@ duan'jian	短簡	1
 duan'jian	短見	1
 duan'jian	鍛件	1
 duan'jian	锻件	1
+duan'jian	锻剑	1
 duan'jian'bao'shi	短見薄識	1
 duan'jian'bo'shi	短见薄识	1
 duan'jian'can'bian	断简残编	1
@@ -349129,6 +349193,7 @@ fa'de'gong'neng	法的功能	1
 fa'de'gong'zi	发的工资	1
 fa'de'guan'xi	法德关系	1
 fa'de'hao	罚得好	1
+fa'de'hen	罚得狠	1
 fa'de'ji'ben'yuan'ze	法的基本原则	1
 fa'de'jia'zhi	法的价值	1
 fa'de'jie'shi	法的解释	1
@@ -357042,6 +357107,7 @@ fan'bing'du'ruan'jian	反病毒软件	1
 fan'bing'du'yin'qing	反病毒引擎	1
 fan'bing'shi	犯病时	1
 fan'bo	反駁	1
+fan'bo	饭钵	1
 fan'bo'dao	反驳道	1
 fan'bo'guan	返波管	1
 fan'bo'ling	翻驳领	1
@@ -377800,6 +377866,7 @@ fei'lun	飛輪	1
 fei'lun'chi'quan	飞轮齿圈	1
 fei'lun'chu'neng	飞轮储能	1
 fei'lun'ci	费伦茨	1
+fei'lun'ci'cheng	费伦茨城	1
 fei'lun'ci'wa'luo'si	费伦茨瓦罗斯	1
 fei'lun'hai	飛輪海	1
 fei'lun'hai'cheng'yuan	飞轮海成员	1
@@ -387662,7 +387729,9 @@ feng'chuan'mu'dan	凤穿牡丹	1
 feng'chuan'wang'luo	疯传网络	1
 feng'chuan'xiang'zi	丰川祥子	1
 feng'chuan'yue'si	丰川悦司	1
+feng'chuang	封窗	1
 feng'chuang'bo'li	风窗玻璃	1
+feng'chuang'hu	封窗户	1
 feng'chui	風吹	1
 feng'chui	風錘	1
 feng'chui	风吹	1
@@ -387802,6 +387871,7 @@ feng'dang'bo'li	風檔玻璃	1
 feng'dang'gua'shui'qi	风挡刮水器	1
 feng'dang'yu'xue'shua	风挡雨雪刷	1
 feng'dao	冯导	1
+feng'dao	冯道	1
 feng'dao	奉到	1
 feng'dao	封到	1
 feng'dao	封岛	1
@@ -393593,6 +393663,7 @@ feng'yin'song'dong	封印松动	1
 feng'yin'tian'xia	凤隐天下	1
 feng'yin'wo	封印我	1
 feng'yin'wu	封印物	1
+feng'yin'xian'zhi	封印先知	1
 feng'yin'zhe	封印者	1
 feng'yin'zhen'fa	封印阵法	1
 feng'yin'zhi'di	封印之地	1
@@ -436942,6 +437013,7 @@ ge'la'xi'mo'fu	格拉西莫夫	1
 ge'la'xi'si	格拉西斯	1
 ge'la'xi'ya	格拉西亚	1
 ge'la'xiao	格拉肖	1
+ge'la'xie'la	格拉谢拉	1
 ge'la'zi	格拉兹	1
 ge'lai	割來	1
 ge'lai	各來	1
@@ -474225,6 +474297,7 @@ gu'jin'zi	古今字	1
 gu'jin'zi'xiao'yao	古今自逍遥	1
 gu'jing	古井	1
 gu'jing	古徑	1
+gu'jing	古镜	1
 gu'jing	固精	1
 gu'jing'bao'yan	鼓睛暴眼	1
 gu'jing'bu'bo	古井不波	1
@@ -478676,6 +478749,7 @@ gu'zi'ji	顾自己	1
 gu'zi'li	骨子裡	1
 gu'zi'li'de'jiao'yang	骨子里的教养	1
 gu'zi'li'de'shan'liang	骨子里的善良	1
+gu'zi'li'de'wen'liang	骨子里的温良	1
 gu'zi'li'de'you'ya	骨子里的优雅	1
 gu'zi'li'de'zi'xin	骨子里的自信	1
 gu'zi'li'mian	骨子里面	1
@@ -478949,6 +479023,7 @@ gua'dun'jiao'chan	挂墩角蟾	1
 gua'en	寡恩	1
 gua'en'bao'yi	寡恩薄义	1
 gua'en'shao'yi	寡恩少义	1
+gua'er	挂耳	1
 gua'er	瓜儿	1
 gua'er	褂儿	1
 gua'er'bao	挂耳包	1
@@ -479961,6 +480036,7 @@ guai'dian'shang'wei'dao'lai	拐点尚未到来	1
 guai'dian'yi'xian	拐点已现	1
 guai'dian'yi'zhi	拐点已至	1
 guai'diao	怪调	1
+guai'dong'jing	怪动静	1
 guai'dong'xi	怪东西	1
 guai'dui'you	怪队友	1
 guai'e'long	怪颚龙	1
@@ -485613,6 +485689,7 @@ guan'tai'mu	官台木	1
 guan'tai'tai	官太太	1
 guan'tai'yan	管太严	1
 guan'tai'yan'le	管太严了	1
+guan'tang	灌汤	1
 guan'tang	觀塘	1
 guan'tang'bao	灌汤包	1
 guan'tang'bao'zi	灌汤包子	1
@@ -500176,6 +500253,7 @@ guo'da'de'ya'li	过大的压力	1
 guo'da'fu	郭大夫	1
 guo'da'ge	郭大哥	1
 guo'da'guo'xiao	过大过小	1
+guo'da'hai	过大海	1
 guo'da'huo'guo'xiao	过大或过小	1
 guo'da'jiang	过大江	1
 guo'da'jie	郭大姐	1
@@ -537645,6 +537723,7 @@ he'ge'ren'yuan	合格人员	1
 he'ge'ren'yuan'ming'dan	合格人员名单	1
 he'ge'ren'zheng	合格认证	1
 he'ge'sai	合格赛	1
+he'ge'sai'si	赫格塞思	1
 he'ge'shan'cheng	和歌山城	1
 he'ge'shan'shi	和歌山市	1
 he'ge'shan'xian	和歌山县	1
@@ -539104,6 +539183,7 @@ he'lang'fu'fen	何郎傅粉	1
 he'lao'ban	何老板	1
 he'lao'ban'er	和老伴儿	1
 he'lao'da	何老大	1
+he'lao'fa'tan'sheng	何劳发叹声	1
 he'lao'gong	和老公	1
 he'lao'gong'tong'fang	和老公同房	1
 he'lao'jiu	喝老酒	1
@@ -548570,6 +548650,7 @@ hei'yu'mi	黑玉米	1
 hei'yu'pian	黑鱼片	1
 hei'yu'tang	黑鱼汤	1
 hei'yu'zi'jiang	黑鱼子酱	1
+hei'yuan	黑猿	1
 hei'yuan'bai'zao'hui'die	黑缘白枣灰蝶	1
 hei'yuan'cheng'fen'die	黑缘橙粉蝶	1
 hei'yuan'ci'sha	黑缘刺鲨	1
@@ -558614,6 +558695,7 @@ hong'tai'xiang	红台乡	1
 hong'tai'yang	红太阳	1
 hong'tai'zhu'jia	哄抬猪价	1
 hong'tai'zu'jin	哄抬租金	1
+hong'tan	红檀	1
 hong'tan'huan'jie	红毯环节	1
 hong'tan'huo'dong	红毯活动	1
 hong'tan'ke	红坦克	1
@@ -570789,6 +570871,7 @@ hua'ban'yu	花瓣雨	1
 hua'ban'yun'dong	滑板运动	1
 hua'ban'zao'xing	花瓣造型	1
 hua'ban'zhong	花瓣中	1
+hua'ban'zhuang	化半妆	1
 hua'ban'zhuang	花瓣状	1
 hua'ban'zi	画板子	1
 hua'bang	花棒	1
@@ -574695,6 +574778,7 @@ hua'quan'he'jiu	划拳喝酒	1
 hua'quan'quan	画圈圈	1
 hua'quan'quan'zu'zhou	画圈圈诅咒	1
 hua'quan'xiu'tui	花拳繡腿	1
+hua'quan'zhuang	化全妆	1
 hua'qun	花裙	1
 hua'qun'zi	花裙子	1
 hua'ran	嘩然	1
@@ -575351,6 +575435,7 @@ hua'shi'zi'jiu	花式自救	1
 hua'shi'zi'xun	画室资讯	1
 hua'shi'zi'yuan	化石资源	1
 hua'shi'zuo'si	花式作死	1
+hua'shou	划手	1
 hua'shou	滑手	1
 hua'shou	画手	1
 hua'shou'hui	画手绘	1
@@ -586208,6 +586293,7 @@ huang'huang'cu'cu	慌慌促促	1
 huang'huang'dang'dang	恍恍荡荡	1
 huang'huang'dang'dang	恍恍蕩蕩	1
 huang'huang'dang'dang	晃晃荡荡	1
+huang'huang'de	晃晃的	1
 huang'huang'de	黄黄的	1
 huang'huang'de'dong'xi	黄黄的东西	1
 huang'huang'du'ri	惶惶度日	1
@@ -593114,6 +593200,7 @@ hui'hui'an'an	灰灰暗暗	1
 hui'hui'bai'bai	灰灰白白	1
 hui'hui'cai	灰灰菜	1
 hui'hui'cao	灰灰草	1
+hui'hui'de	灰灰的	1
 hui'hui'diao	会毁掉	1
 hui'hui'fen'xi	回回粉西	1
 hui'hui'fu	会回复	1
@@ -613470,6 +613557,7 @@ ji'ge'quan'zi	几个圈子	1
 ji'ge'ren	几个人	1
 ji'ge'ren	幾個人	1
 ji'ge'ren'chi	几个人吃	1
+ji'ge'ren'fen	几个人分	1
 ji'ge'ren'ji'de	几个人记得	1
 ji'ge'ren'kan	几个人看	1
 ji'ge'ren'lai	几个人来	1
@@ -649710,6 +649798,7 @@ jian'de'hao	剪得好	1
 jian'de'hao	建得好	1
 jian'de'hen	贱得很	1
 jian'de'hua'yuan	建德花园	1
+jian'de'jiang	建德江	1
 jian'de'men	健德门	1
 jian'de'qi	建得起	1
 jian'de'qiao'zhan	建德桥站	1
@@ -661620,6 +661709,7 @@ jiang'dan'dang	讲担当	1
 jiang'dan'gu'chun	降胆固醇	1
 jiang'dang	降挡	1
 jiang'dang'bu'you	降档补油	1
+jiang'dang'ci	降档次	1
 jiang'dang'ke	讲党课	1
 jiang'dang'shi	讲党史	1
 jiang'dang'xing	讲党性	1
@@ -690290,6 +690380,7 @@ jin'jin'ji'tian	仅仅几天	1
 jin'jin'jia'zhu	紧紧夹住	1
 jin'jin'jiao'liang	斤斤較量	1
 jin'jin'jiu'ge	仅仅九个	1
+jin'jin'ka'zhu	紧紧卡住	1
 jin'jin'kao	仅仅靠	1
 jin'jin'kao'zhe	仅仅靠着	1
 jin'jin'kou	紧紧扣	1
@@ -690610,12 +690701,14 @@ jin'jun'zhong'guo	进军中国	1
 jin'jun'zhong'guo'shi'chang	进军中国市场	1
 jin'jun'zi'ben'shi'chang	进军资本市场	1
 jin'jun'zong'jue'sai	进军总决赛	1
+jin'ka	紧卡	1
 jin'ka	金卡	1
 jin'ka'biao	禁卡表	1
 jin'ka'gong'cheng	金卡工程	1
 jin'ka'hui'yuan	金卡会员	1
 jin'ka'jia	金卡价	1
 jin'ka'na	金卡纳	1
+jin'ka'zhe	紧卡着	1
 jin'ka'zhi'neng	金卡智能	1
 jin'kai'da'dao	金开大道	1
 jin'kai'de	金凯德	1
@@ -727983,6 +728076,7 @@ ju'ji'shou'you'ling'zhan'shi	狙击手幽灵战士	1
 ju'ji'suan	据计算	1
 ju'ji'tai	聚集态	1
 ju'ji'ti	聚集体	1
+ju'ji'tui	焗鸡腿	1
 ju'ji'wang	剧集网	1
 ju'ji'wang	狙击王	1
 ju'ji'wei	聚积为	1
@@ -730303,6 +730397,7 @@ ju'shi	局勢	1
 ju'shi	居士	1
 ju'shi	巨室	1
 ju'shi	巨視	1
+ju'shi	拒食	1
 ju'shi	據實	1
 ju'shi	舉世	1
 ju'shi	舉事	1
@@ -739132,11 +739227,22 @@ ka'de	卡的	1
 ka'de'bei'si'tai'er'quan	卡德卑斯太尔犬	1
 ka'de'bi	卡得比	1
 ka'de'er	卡德尔	1
+ka'de'hen'jin	卡得很紧	1
+ka'de'hen'si	卡得很死	1
 ka'de'jia	卡德加	1
+ka'de'jin	卡得紧	1
+ka'de'jin'jin'de	卡得紧紧的	1
+ka'de'jin'yi'dian	卡得紧一点	1
+ka'de'jin'yi'dian'er	卡得紧一点儿	1
+ka'de'jin'yi'xie	卡得紧一些	1
 ka'de'luo'fu	卡德罗夫	1
 ka'de'luo'si	卡德罗斯	1
 ka'de'mo'si	卡德摩斯	1
 ka'de'shi'jie	卡德世界	1
+ka'de'si	卡得死	1
+ka'de'si'si'de	卡得死死的	1
+ka'de'tai'jin	卡得太紧	1
+ka'de'tai'si	卡得太死	1
 ka'de'wei'er	卡德维尔	1
 ka'de'yao'si	卡得要死	1
 ka'de'yi'sheng	咔的一声	1
@@ -739501,6 +739607,8 @@ ka'hao	卡号	1
 ka'hao	卡號	1
 ka'he	卡盒	1
 ka'he'jian	卡盒剑	1
+ka'hen'jin	卡很紧	1
+ka'hen'si	卡很死	1
 ka'hou'long	卡喉咙	1
 ka'hou'tai	卡后台	1
 ka'huan	卡环	1
@@ -739944,6 +740052,7 @@ ka'na'ke	卡纳克	1
 ka'na'ke'shen'miao	卡纳克神庙	1
 ka'na'lai'si	卡纳莱斯	1
 ka'na'li'si	卡纳里斯	1
+ka'na'me'si	卡那么死	1
 ka'na'mei'su	卡那霉素	1
 ka'na'si	卡纳斯	1
 ka'na'si	喀纳斯	1
@@ -740320,6 +740429,7 @@ ka'ta'xing	卡他性	1
 ka'ta'xing'jie'mo'yan	卡他性结膜炎	1
 ka'ta'xing'zhong'er'yan	卡他性中耳炎	1
 ka'tai'duo	卡太多	1
+ka'tai'jin	卡太紧	1
 ka'tan	卡坦	1
 ka'tan'le	卡痰了	1
 ka'tao	卡套	1
@@ -740573,6 +740683,7 @@ ka'zha'fei'zheng'quan	卡扎菲政权	1
 ka'zha'ke	卡扎克	1
 ka'zhe	卡着	1
 ka'zhe'dian	卡着点	1
+ka'zhe'me'si	卡这么死	1
 ka'zhe'ne	卡着呢	1
 ka'zhen	卡帧	1
 ka'zhen'tiao'liao	卡真调料	1
@@ -740657,6 +740768,7 @@ kai'ban'you'er'yuan	开办幼儿园	1
 kai'ban'zhe	开办者	1
 kai'ban'zhen'suo	开办诊所	1
 kai'ban'zi'jin	开办资金	1
+kai'bang	开蚌	1
 kai'bao	开包	1
 kai'bao	開包	1
 kai'bao	開苞	1
@@ -745808,6 +745920,7 @@ kai'yang'li'di'si'she'qu	开阳里第四社区	1
 kai'yang'li'di'yi'she'qu	开阳里第一社区	1
 kai'yang'lu	开阳路	1
 kai'yang'qiao'nan	开阳桥南	1
+kai'yao	开窑	1
 kai'yao	開藥	1
 kai'yao'dian	开药店	1
 kai'yao'fang	开药方	1
@@ -747768,8 +747881,10 @@ kan'de	砍得	1
 kan'de'bi	看得比	1
 kan'de'bu'duo	看得不多	1
 kan'de'bu'guo'yin	看得不过瘾	1
+kan'de'bu'jin	看得不紧	1
 kan'de'bu'kai	看得不开	1
 kan'de'bu'shao	看得不少	1
+kan'de'bu'yan	看得不严	1
 kan'de'chang'yuan	看得长远	1
 kan'de'chu'a	看得出啊	1
 kan'de'chu'lai	看得出來	1
@@ -747901,6 +748016,7 @@ kan'de'wang'you	看的网友	1
 kan'de'wo	看得我	1
 kan'de'xia'qu	看得下去	1
 kan'de'xin	看的心	1
+kan'de'yan	看得严	1
 kan'de'yan'hua'liao'luan	看得眼花缭乱	1
 kan'de'yan'jing	看的眼睛	1
 kan'de'yi'qing'er'chu	看得一清二楚	1
@@ -750896,6 +751012,8 @@ kan'yan	龛岩	1
 kan'yan'bi'lu	勘验笔录	1
 kan'yan'chang'hui	看演唱会	1
 kan'yan'chu	看演出	1
+kan'yan'dian	看严点	1
+kan'yan'dian'er	看严点儿	1
 kan'yan'hua	看烟花	1
 kan'yan'hua'le	看烟花了	1
 kan'yan'huo	看烟火	1
@@ -750908,6 +751026,8 @@ kan'yan'se	看眼色	1
 kan'yan'se	看颜色	1
 kan'yan'shen	看眼神	1
 kan'yan'xian'chang	勘验现场	1
+kan'yan'yi'dian	看严一点	1
+kan'yan'yi'dian'er	看严一点儿	1
 kan'yan'yuan	看演员	1
 kan'yan'yuan	看眼缘	1
 kan'yan'zhi	看颜值	1
@@ -752572,6 +752692,7 @@ kang'ning'da'xing'xing	康宁大猩猩	1
 kang'ning'da'xing'xing'bo'li	康宁大猩猩玻璃	1
 kang'ning'dan'bai	抗凝蛋白	1
 kang'ning'dong	抗凝冻	1
+kang'ning'e'mu	康宁厄姆	1
 kang'ning'gong'si	康宁公司	1
 kang'ning'han'mu	康宁汉姆	1
 kang'ning'hu'xiao	康宁护校	1
@@ -752634,6 +752755,7 @@ kang'pu'dun	康普顿	1
 kang'pu'dun'bo'chang	康普顿波长	1
 kang'pu'dun'san'she	康普顿散射	1
 kang'pu'dun'xiao'ying	康普顿效应	1
+kang'qi	扛旗	1
 kang'qi	扛起	1
 kang'qi'chu'tou	扛起锄头	1
 kang'qi'da'liang	扛起大梁	1
@@ -752647,6 +752769,7 @@ kang'qi'le'da'qi	扛起了大旗	1
 kang'qi'qiang	扛起枪	1
 kang'qi'qiu	抗起球	1
 kang'qi'qiu'dui	扛起球队	1
+kang'qi'ren	扛旗人	1
 kang'qi'shi'ming	扛起使命	1
 kang'qi'shi'ming'dan'dang	扛起使命担当	1
 kang'qi'ze'ren	扛起责任	1
@@ -765348,6 +765471,7 @@ ke'wei'shi'shun'feng'shun'shui	可谓是顺风顺水	1
 ke'wei'shi'wan'mei	可谓是完美	1
 ke'wei'shi'wu'hua'ba'men	可谓是五花八门	1
 ke'wei'shi'yi'bo'san'zhe	可谓是一波三折	1
+ke'wei'te'ai'mi'er	科威特埃米尔	1
 ke'wei'te'cheng	科威特城	1
 ke'wei'te'di'na'er	科威特第纳尔	1
 ke'wei'te'dui	科威特队	1
@@ -767490,6 +767614,7 @@ ke'yi'gu'ding	可以固定	1
 ke'yi'gu'ji	可以估计	1
 ke'yi'gu'li	可以鼓励	1
 ke'yi'gua	可以挂	1
+ke'yi'guan	可以关	1
 ke'yi'guan	可以管	1
 ke'yi'guan'bi	可以关闭	1
 ke'yi'guan'cha	可以观察	1
@@ -790453,6 +790578,7 @@ lan'cang'gu'cha	澜沧古茶	1
 lan'cang'jiang	瀾滄江	1
 lan'cang'jiang'liu'yu	澜沧江流域	1
 lan'cang'jiang'pan	澜沧江畔	1
+lan'cang'ku'li	烂仓库里	1
 lan'cang'la'hu'zu'zi'zhi'xian	瀾滄拉祜族自治縣	1
 lan'cao	兰草	1
 lan'cao	蓝草	1
@@ -792898,6 +793024,7 @@ lan'zai	拦在	1
 lan'zai	揽在	1
 lan'zai	攔在	1
 lan'zai	烂仔	1
+lan'zai'cang'ku	烂在仓库	1
 lan'zai'di'li	烂在地里	1
 lan'zai'du'zi'li	烂在肚子里	1
 lan'zai'le	拦在了	1
@@ -818758,6 +818885,7 @@ lian'de	連的	1
 lian'de'bi	练得比	1
 lian'de'bi'sai	联的比赛	1
 lian'de'bi'sai	聯的比賽	1
+lian'de'cha	练得差	1
 lian'de'hao	练得好	1
 lian'de'hao'ma	练得好吗	1
 lian'de'shang	连得上	1
@@ -826632,6 +826760,7 @@ liang'ge'ren'di'yi'ci'jian'mian	两个人第一次见面	1
 liang'ge'ren'dou'hao	两个人都好	1
 liang'ge'ren'dou'xi'huan	两个人都喜欢	1
 liang'ge'ren'dui'jue	两个人对决	1
+liang'ge'ren'fen	两个人分	1
 liang'ge'ren'fen'kai	两个人分开	1
 liang'ge'ren'fen'shou	两个人分手	1
 liang'ge'ren'fen'shou'hou	两个人分手后	1
@@ -826668,6 +826797,7 @@ liang'ge'ren'sheng'huo'zai'yi'qi	两个人生活在一起	1
 liang'ge'ren'shi	两个人时	1
 liang'ge'ren'shi	两个认识	1
 liang'ge'ren'shou'qian'zhuo'shou	两个人手牵着手	1
+liang'ge'ren'tan	两个人谈	1
 liang'ge'ren'tan'lian'ai	两个人谈恋爱	1
 liang'ge'ren'tong'kuang	两个人同框	1
 liang'ge'ren'tou	两个人头	1
@@ -863769,6 +863899,7 @@ luan'jiang	亂講	1
 luan'jiang'hua	乱讲话	1
 luan'jiang'o	乱讲哦	1
 luan'jiang'shen'me	乱讲什么	1
+luan'jiang'yi'tong	乱讲一通	1
 luan'jiao	乱交	1
 luan'jiao	乱教	1
 luan'jiao	亂交	1
@@ -869122,6 +869253,7 @@ luo'zhu	落注	1
 luo'zhu	落著	1
 luo'zhu'han	螺柱焊	1
 luo'zhu'han'ji	螺柱焊机	1
+luo'zhu'jia	裸蛛甲	1
 luo'zhu'jun	罗竹君	1
 luo'zhu'ren	罗主任	1
 luo'zhuang	裸妆	1
@@ -891298,6 +891430,7 @@ mei'ge'jie'duan	每个阶段	1
 mei'ge'jie'ri	每个节日	1
 mei'ge'jing'dian	每个景点	1
 mei'ge'jing'tou	每个镜头	1
+mei'ge'ju	没格局	1
 mei'ge'ju'min	每个居民	1
 mei'ge'jue'ding	每个决定	1
 mei'ge'jue'se	每个角色	1
@@ -894599,6 +894732,7 @@ mei'ji'nai'he	没极奈何	1
 mei'ji'nai'he	没计奈何	1
 mei'ji'neng	没技能	1
 mei'ji'nian	没几年	1
+mei'ji'nian'le	没几年了	1
 mei'ji'qi	没集齐	1
 mei'ji'qiao	没技巧	1
 mei'ji'qing	没激情	1
@@ -894798,8 +894932,10 @@ mei'jian'zhe	没捡着	1
 mei'jian'zhe	没见着	1
 mei'jian'zhu	每建筑	1
 mei'jian'zuo'pin	每件作品	1
+mei'jiang	梅酱	1
 mei'jiang	没讲	1
 mei'jiang	没降	1
+mei'jiang	湄江	1
 mei'jiang	美奖	1
 mei'jiang	美獎	1
 mei'jiang'cui'pian	湄江翠片	1
@@ -894811,6 +894947,7 @@ mei'jiang'jun'fei'yan	黴浆菌肺炎	1
 mei'jiang'jun'fei'yan	黴漿菌肺炎	1
 mei'jiang'li	没奖励	1
 mei'jiang'li'a	没奖励啊	1
+mei'jiang'pai'gu	梅酱排骨	1
 mei'jiang'wan	没讲完	1
 mei'jiang'wen	没降温	1
 mei'jiang'xue	梅绛雪	1
@@ -905234,6 +905371,7 @@ mei'zhu	每株	1
 mei'zhu	每注	1
 mei'zhu	没住	1
 mei'zhu	没煮	1
+mei'zhu'ce	没注册	1
 mei'zhu'guo	没住过	1
 mei'zhu'hua'da'shi	美驻华大使	1
 mei'zhu'hua'shi'guan	美驻华使馆	1
@@ -907742,6 +907880,7 @@ meng'meng	矇矇	1
 meng'meng	萌萌	1
 meng'meng	萌虻	1
 meng'meng	蠓艋	1
+meng'meng'chong	猛猛冲	1
 meng'meng'da'la	萌萌哒啦	1
 meng'meng'de	萌萌的	1
 meng'meng'de'biao'qing	萌萌的表情	1
@@ -929477,6 +929616,7 @@ mo'yao'shi	魔药师	1
 mo'yao'shu	没药属	1
 mo'yao'shu	没药树	1
 mo'yao'shu'shu	没药树属	1
+mo'yao'wen'qian'cheng	莫要问前程	1
 mo'yao'xue	魔药学	1
 mo'yao'yan'xi	魔药研析	1
 mo'yao'yao	莫瑶瑶	1
@@ -935297,6 +935437,7 @@ na'da'er	納達爾	1
 na'da'jia	那大家	1
 na'da'jiang	拿大奖	1
 na'da'jie	那大姐	1
+na'da'jie'guo	拿大结果	1
 na'da'mu	那達慕	1
 na'da'mu'da'hui	那达慕大会	1
 na'da'sheng	那大圣	1
@@ -941799,6 +941940,7 @@ nai'pao	奶泡	1
 nai'pao'du	耐泡度	1
 nai'pao'ka'fei	奶泡咖啡	1
 nai'peng'zhuang	耐碰撞	1
+nai'pi	奶啤	1
 nai'pi'lao	耐疲劳	1
 nai'pi'lao'xing	耐疲劳性	1
 nai'pin'ji	耐贫瘠	1
@@ -950556,6 +950698,7 @@ nei'bian	內變	1
 nei'bian	內邊	1
 nei'bian	内变	1
 nei'bian	内边	1
+nei'bian'jiao	内变焦	1
 nei'bian'ju	内边距	1
 nei'biao'mian	内表面	1
 nei'bin	內賓	1
@@ -954252,6 +954395,7 @@ neng'an'wen	能安稳	1
 neng'an'xin	能安心	1
 neng'an'zhuang	能安装	1
 neng'ao'ye	能熬夜	1
+neng'ba	能吧	1
 neng'ba	能把	1
 neng'ba	能拔	1
 neng'ba'ren	能把人	1
@@ -963201,6 +963345,7 @@ ni'luo'he'san'jiao'zhou	尼罗河三角洲	1
 ni'luo'he'shang	尼罗河上	1
 ni'luo'he'shang'de'can'an	尼罗河上的惨案	1
 ni'luo'ti'ni	尼洛替尼	1
+ni'luo'zhu'jia	拟裸蛛甲	1
 ni'lv'fei'er	尼吕费尔	1
 ni'lv'ren'you'qie'er'ren	逆旅人有妾二人	1
 ni'lv'xing	你旅行	1
@@ -967752,6 +967897,8 @@ ni'za'hai'bu'shui	你咋还不睡	1
 ni'za'hui'shi	你咋回事	1
 ni'za'la	你咋啦	1
 ni'za'le	你咋了	1
+ni'za'xiang	你咋想	1
+ni'za'xiang'de	你咋想的	1
 ni'za'zai	你咋在	1
 ni'za'zai'zhe	你咋在这	1
 ni'za'zai'zhe'er	你咋在这儿	1
@@ -987045,9 +987192,12 @@ pa'er'ma	帕尔马	1
 pa'er'ma	帕爾馬	1
 pa'er'ma'dui	帕尔马队	1
 pa'er'ma'huo'tui	帕尔玛火腿	1
+pa'er'ma'huo'tui	帕尔马火腿	1
 pa'er'ma'ju'le'bu	帕尔马俱乐部	1
 pa'er'ma'si	帕尔玛斯	1
+pa'er'ma'si	帕尔马斯	1
 pa'er'ma'zhi'shui	帕尔玛之水	1
+pa'er'ma'zhi'shui	帕尔马之水	1
 pa'er'man	帕尔曼	1
 pa'er'man'jiang	帕尔曼江	1
 pa'er'mei	帕尔梅	1
@@ -1015797,6 +1015947,7 @@ pu'luo'dian'an	普罗碘铵	1
 pu'luo'fu'di'fu	普羅夫迪夫	1
 pu'luo'gu'fen	普洛股份	1
 pu'luo'ke'fei'ye'fu	普罗科菲耶夫	1
+pu'luo'ke'te	普罗克特	1
 pu'luo'lie'ta'li'ya	普羅列塔利亞	1
 pu'luo'mei'si	普罗梅斯	1
 pu'luo'mi	普罗米	1
@@ -1058944,6 +1059095,7 @@ qing'he'zhen	青荷镇	1
 qing'hei	青黑	1
 qing'hei'se	青黑色	1
 qing'hei'zhang'xu'xiao'chi'tian'niu	青黑长须小翅天牛	1
+qing'hen'duo	轻很多	1
 qing'hen'hen'bian'ce	请狠狠鞭策	1
 qing'heng	轻哼	1
 qing'heng'jun	青蘅君	1
@@ -1062365,6 +1062517,7 @@ qing'qing'dan	轻轻弹	1
 qing'qing'dan'dan	清清淡淡	1
 qing'qing'de	清清的	1
 qing'qing'de	轻轻的	1
+qing'qing'de	青青的	1
 qing'qing'de'cao'di	青青的草地	1
 qing'qing'de'feng	轻轻的风	1
 qing'qing'de'he'shui	清清的河水	1
@@ -1067560,6 +1067713,7 @@ qiong'cu'da	穷醋大	1
 qiong'cun'pi'rang	穷村僻壤	1
 qiong'cuo'da	穷措大	1
 qiong'da	窮達	1
+qiong'da'jie'you'ming	穷达皆由命	1
 qiong'da'shi'ju	穷大失居	1
 qiong'da'shi'ju	窮大失居	1
 qiong'da'you'ming	穷达有命	1
@@ -1082503,6 +1082657,7 @@ quan'mu'zhi'zhong	畎亩之中	1
 quan'mu'zhi'zhong	畎亩之忠	1
 quan'na'jiao'yu	全纳教育	1
 quan'na'la	权娜拉	1
+quan'na'xia	全拿下	1
 quan'na'zou	全拿走	1
 quan'nan'da'xue	全南大学	1
 quan'nan'gao'su	泉南高速	1
@@ -1087060,10 +1087215,12 @@ quan'zhu'li'zhen'rong	全主力阵容	1
 quan'zhu'ren	犬主人	1
 quan'zhu'you'du	全株有毒	1
 quan'zhuan'ye	全专业	1
+quan'zhuang	全妆	1
 quan'zhuang	圈状	1
 quan'zhuang	權狀	1
 quan'zhuang'bei	全装备	1
 quan'zhuang'jie'dao	泉庄街道	1
+quan'zhuang'rong	全妆容	1
 quan'zhuang'shang	全撞上	1
 quan'zhuang'shang	全装上	1
 quan'zhuang'shang'le	全撞上了	1
@@ -1108161,6 +1108318,7 @@ ri'ben'xiong'ben	日本熊本	1
 ri'ben'xu'fang'fu	日本须鲂𫚒	1
 ri'ben'xu'hua'cheng	日本旭化成	1
 ri'ben'xu'wei	日本须鳂	1
+ri'ben'xu'xiao'zi	日本旭硝子	1
 ri'ben'xuan'bu'tou'xiang	日本宣布投降	1
 ri'ben'xuan'shou	日本选手	1
 ri'ben'xue	日本學	1
@@ -1144213,6 +1144371,7 @@ shan'hua	善化	1
 shan'hua	山花	1
 shan'hua'gong'si	陕化公司	1
 shan'hua'jiang	山花奖	1
+shan'hua'jiao	山花椒	1
 shan'hua'jiu'su	删华就素	1
 shan'hua'jiu'su	刪華就素	1
 shan'hua'lan'man	山花烂漫	1
@@ -1151896,6 +1152055,7 @@ shang'jin	上紧	1
 shang'jin	上緊	1
 shang'jin	上進	1
 shang'jin	上金	1
+shang'jin	伤今	1
 shang'jin	尚进	1
 shang'jin	賞金	1
 shang'jin'bang	赏金榜	1
@@ -1153823,6 +1153983,7 @@ shang'quan'tao	上圈套	1
 shang'quan'xiao'fei	商圈消费	1
 shang'quan'zhong'xin	商圈中心	1
 shang'quan'zhou'bian	商圈周边	1
+shang'quan'zhuang	上全妆	1
 shang'que	上却	1
 shang'que	上卻	1
 shang'que	上阕	1
@@ -1160972,6 +1161133,7 @@ shao'zhi	烧至	1
 shao'zhi	燒紙	1
 shao'zhi	燒至	1
 shao'zhi	燒製	1
+shao'zhi'ci'qi	烧制瓷器	1
 shao'zhi'dao	少知道	1
 shao'zhi'dao'yi'dian	少知道一点	1
 shao'zhi'er'cheng	烧制而成	1
@@ -1165719,6 +1165881,7 @@ she'liu'pu'qi'ji	射流曝气机	1
 she'liu'qi	射流器	1
 she'liu'shi	射流式	1
 she'long'men	射龙门	1
+she'lu	麝鹿	1
 she'lu'fang	摄录放	1
 she'lu'ji	摄录机	1
 she'lu'she'bei	摄录设备	1
@@ -1167057,6 +1167220,7 @@ she'tan'ji'bai	設壇祭拜	1
 she'tan'ji'bai	设坛祭拜	1
 she'tao	设套	1
 she'tao'zi	设套子	1
+she'te	舍特	1
 she'ti	摄提	1
 she'ti	蛇鹈	1
 she'ti'ge	摄提格	1
@@ -1235288,6 +1235452,8 @@ shou'mian'wen	獸面紋	1
 shou'miao	手描	1
 shou'min	手民	1
 shou'min'lu	寿民路	1
+shou'min'wu'zhi	手民误植	1
+shou'min'zhi'wu	手民之误	1
 shou'ming	壽命	1
 shou'ming	首名	1
 shou'ming'bian'duan	寿命变短	1
@@ -1239203,6 +1239369,7 @@ shou'zhen'da	手真大	1
 shou'zhen'di	守阵地	1
 shou'zhen'fu'ze'zhi	首诊负责制	1
 shou'zhen'gong	受镇宫	1
+shou'zhen'jian	手真贱	1
 shou'zhen'qian	手真欠	1
 shou'zhen'qiao	手真巧	1
 shou'zhen'yi'sheng	首诊医生	1
@@ -1241002,6 +1241169,7 @@ shu'fen	數分	1
 shu'fen	淑芬	1
 shu'fen	输分	1
 shu'fen'guo	薯粉果	1
+shu'fen'guo	薯粉粿	1
 shu'fen'kuai	树分块	1
 shu'fen'men	书粉们	1
 shu'fen'tai'ni	舒芬太尼	1
@@ -1245907,6 +1246075,7 @@ shu'tao	書套	1
 shu'te	舒特	1
 shu'te'lei	舒特勒	1
 shu'ti	書體	1
+shu'ti	树体	1
 shu'ti	舒体	1
 shu'ti'bang	熟蹄膀	1
 shu'ti'jie'gou	树体结构	1
@@ -1250535,6 +1250704,7 @@ shuang'cha'hua'jian'feng	双叉滑茧蜂	1
 shuang'cha'sheng	双差生	1
 shuang'cha'shi	双叉式	1
 shuang'cha'tou	双插头	1
+shuang'cha'xi'jin'gui	双叉犀金龟	1
 shuang'chang	爽暢	1
 shuang'chao'ji'kuai'chong	双超级快充	1
 shuang'chao'zhi'bao	双超质保	1
@@ -1259474,6 +1259644,7 @@ shui'xue	水靴	1
 shui'xun'huan	水循环	1
 shui'xun'huan'xi'tong	水循环系统	1
 shui'xun'shou	水蕈兽	1
+shui'xun'zi	水栒子	1
 shui'ya	水壓	1
 shui'ya	水涯	1
 shui'ya	水鴨	1
@@ -1280013,10 +1280184,15 @@ su'jia'yuan	苏家园	1
 su'jia'zhuang	苏家庄	1
 su'jia'zi'di	俗家子弟	1
 su'jia'zuo	苏家作	1
+su'jian	俗见	1
 su'jian	宿見	1
+su'jian	素笺	1
+su'jian	素缣	1
 su'jian	苏建	1
+su'jian	速件	1
 su'jian	速簡	1
 su'jian'an	苏简安	1
+su'jian'de'jiang	宿建德江	1
 su'jian'guo	苏建国	1
 su'jian'hao	苏剑豪	1
 su'jian'he	苏建和	1
@@ -1280029,14 +1280205,17 @@ su'jian'zhong	苏建忠	1
 su'jiang	俗讲	1
 su'jiang	塑匠	1
 su'jiang	宿將	1
+su'jiang	溯江	1
 su'jiang	速将	1
 su'jiang	速降	1
 su'jiang'er'shang	溯江而上	1
+su'jiang'er'xing	溯江而行	1
 su'jiang'hua'xue'sai	速降滑雪赛	1
 su'jiang'jiu'zu	宿将旧卒	1
 su'jiang'jun	苏将军	1
 su'jiang'sheng	速降绳	1
 su'jiang'tai'cha	素匠泰茶	1
+su'jiang'zhi'shang	溯江直上	1
 su'jiao	塑膠	1
 su'jiao	素交	1
 su'jiao	苏教	1
@@ -1293957,6 +1294136,10 @@ ta'yun'shan	塔云山	1
 ta'yun'shou	踏云兽	1
 ta'za'le	他咋了	1
 ta'za'le	她咋了	1
+ta'za'xiang	他咋想	1
+ta'za'xiang	她咋想	1
+ta'za'xiang'de	他咋想的	1
+ta'za'xiang'de	她咋想的	1
 ta'zai	他再	1
 ta'zai	他在	1
 ta'zai	她再	1
@@ -1295822,6 +1296005,7 @@ tai'guai'le	太怪了	1
 tai'guai'le'ba	太怪了吧	1
 tai'guai'qiao	太乖巧	1
 tai'guai'yi	太怪异	1
+tai'guan	抬棺	1
 tai'guan'cai	抬棺材	1
 tai'guan'fang	太官方	1
 tai'guan'jiang	抬棺匠	1
@@ -1297579,9 +1297763,13 @@ tai'lin'se	太吝啬	1
 tai'lin'se'le	太吝啬了	1
 tai'lin'sheng'wu	泰林生物	1
 tai'ling	太灵	1
+tai'ling	抬灵	1
 tai'ling	泰陵	1
 tai'ling'dao	台领导	1
 tai'ling'dian'dong'che	台铃电动车	1
+tai'ling'guang	太灵光	1
+tai'ling'huo	太灵活	1
+tai'ling'jiu	抬灵柩	1
 tai'ling'le	太灵了	1
 tai'ling'le'ba	太灵了吧	1
 tai'ling'lei	太另类	1
@@ -1298344,6 +1298532,7 @@ tai'qi	台企	1
 tai'qi	台启	1
 tai'qi	台啟	1
 tai'qi	台汽	1
+tai'qi	抬旗	1
 tai'qi	胎气	1
 tai'qi	胎氣	1
 tai'qi	臺汽	1
@@ -1314163,6 +1314352,7 @@ teng'sheng	騰昇	1
 teng'sheng'fei'shi	腾声飞实	1
 teng'sheng'fei'shi	騰聲飛實	1
 teng'shi'qi'che	腾势汽车	1
+teng'shou	腾手	1
 teng'shu	謄書	1
 teng'si'bei'ge	滕斯貝格	1
 teng'si'die'le	疼死爹了	1
@@ -1315202,6 +1315392,7 @@ ti'dai'zuo'yong	替代作用	1
 ti'dan	提單	1
 ti'dan'hao	提单号	1
 ti'dang	提档	1
+ti'dang	踢裆	1
 ti'dang'fen	提档分	1
 ti'dang'fen'shu'xian	提档分数线	1
 ti'dang'jia'su	提档加速	1
@@ -1320138,6 +1320329,7 @@ ti'xie'xin'ren	提携新人	1
 ti'xie'yu'long'wei'jun'si	提携玉龙为君死	1
 ti'xie'zhe	题写着	1
 ti'xie'zhi'en	提携之恩	1
+ti'xin	替芯	1
 ti'xin'che	提新车	1
 ti'xin'diao'dan	提心吊膽	1
 ti'xin'xin	提信心	1
@@ -1360550,6 +1360742,7 @@ tuo'meng'de	托蒙德	1
 tuo'meng'gei	托梦给	1
 tuo'meng'zhe	拓梦者	1
 tuo'mi	脱密	1
+tuo'mi'na	托米纳	1
 tuo'mi'qi	托米奇	1
 tuo'mi'qi	脱密期	1
 tuo'mian'zi'qian	唾面自乾	1
@@ -1361146,6 +1361339,7 @@ tuo'tou'lv	妥投率	1
 tuo'tou'miao'cun	陀头庙村	1
 tuo'tu	脫兔	1
 tuo'tu	脱兔	1
+tuo'tu	脱土	1
 tuo'tu'kai'jiang	拓土开疆	1
 tuo'tui	拖腿	1
 tuo'tui'ji	拖推机	1
@@ -1423002,7 +1423196,9 @@ wu'deng'wei'zhi	雾灯位置	1
 wu'deng'zao'xing	雾灯造型	1
 wu'deng'zhou'wei	雾灯周围	1
 wu'deng'zu	雾灯组	1
+wu'di	五地	1
 wu'di	五弟	1
+wu'di	伍迪	1
 wu'di	无蒂	1
 wu'di	無底	1
 wu'di	無敵	1
@@ -1430351,6 +1430547,7 @@ wu'lin'zhi'zun	武林至尊	1
 wu'lin'zhong	武林中	1
 wu'lin'zhong'ren	武林中人	1
 wu'lin'zong'shi	武林宗师	1
+wu'ling	乌菱	1
 wu'ling	五嶺	1
 wu'ling	五菱	1
 wu'ling	五陵	1
@@ -1431900,6 +1432097,7 @@ wu'meng'shan'qu	乌蒙山区	1
 wu'meng'ting	吴梦婷	1
 wu'meng'zhi	吴梦知	1
 wu'mi	乌咪	1
+wu'mi	乌米	1
 wu'mi	五米	1
 wu'mi	舞迷	1
 wu'mi'chu	无觅处	1
@@ -1472522,6 +1472720,8 @@ xian'ying'ji	显影机	1
 xian'ying'ji	顯影劑	1
 xian'ying'ji'guan'li'ju	县应急管理局	1
 xian'ying'ji'ju	县应急局	1
+xian'ying'jie	限应届	1
+xian'ying'jie'sheng	限应届生	1
 xian'ying'li	顯影力	1
 xian'ying'qu'mao'zei	先应去蟊贼	1
 xian'ying'xiang	显影像	1
@@ -1479089,6 +1479289,7 @@ xiang'he'qi'fen	祥和气氛	1
 xiang'he'qiao	祥和桥	1
 xiang'he'ren'jia	祥和人家	1
 xiang'he'rou'bing	香河肉饼	1
+xiang'he'san	相合伞	1
 xiang'he'she'qu	祥和社区	1
 xiang'he'shen'me	想喝什么	1
 xiang'he'shi'ye	祥和实业	1
@@ -1501110,6 +1501311,7 @@ xiao'tao'yuan'wei'tang	小桃园煨汤	1
 xiao'tao'zhuang	小套装	1
 xiao'tao'zi	小桃子	1
 xiao'te	肖特	1
+xiao'te'bo'li	肖特玻璃	1
 xiao'te'dian	小特点	1
 xiao'te'ji	肖特基	1
 xiao'te'ji'er'ji'guan	肖特基二极管	1
@@ -1503027,6 +1503229,7 @@ xiao'xing'si'liao'ke'li'ji	小型饲料颗粒机	1
 xiao'xing'su'ge'lan'mu'yang'quan	小型苏格兰牧羊犬	1
 xiao'xing'su'ge'lan'quan	小型苏格兰犬	1
 xiao'xing'ti'zhi'xiang'lian	小型体质项链	1
+xiao'xing'tian'ti	小型天体	1
 xiao'xing'tian'xia	孝行天下	1
 xiao'xing'ting'che'chang	小型停车场	1
 xiao'xing'tou'zi	小型投资	1
@@ -1511441,6 +1511644,7 @@ xin'da'dang	新搭档	1
 xin'da'di	新大地	1
 xin'da'di'chan	信达地产	1
 xin'da'du	新大都	1
+xin'da'er	辛达尔	1
 xin'da'fa	新打法	1
 xin'da'gang	新大纲	1
 xin'da'gong'si	信达公司	1
@@ -1521538,6 +1521742,7 @@ xin'tuo'zhang'hu	信托账户	1
 xin'tuo'zhi'du	信托制度	1
 xin'tuo'zi'chan	信托资产	1
 xin'tuo'zi'jin	信托资金	1
+xin'wa'er	辛瓦尔	1
 xin'wa'fang	新瓦房	1
 xin'wa'zi	新袜子	1
 xin'wai	心外	1
@@ -1528803,6 +1529008,9 @@ xing'fu'zhang'dan	幸福账单	1
 xing'fu'zhao	幸福照	1
 xing'fu'zhao'xiang'guan	幸福照相馆	1
 xing'fu'zhe	幸福着	1
+xing'fu'zhe	幸福者	1
+xing'fu'zhe'tui'rang	幸福者退让	1
+xing'fu'zhe'tui'rang'yuan'ze	幸福者退让原则	1
 xing'fu'zhen	幸福镇	1
 xing'fu'zhi	幸福值	1
 xing'fu'zhi'cheng	幸福之城	1
@@ -1556034,6 +1556242,7 @@ xue'zhong'song'tan'nan	雪中送炭难	1
 xue'zhong'tan	雪中炭	1
 xue'zhong'wan	学中玩	1
 xue'zhong'wen	学中文	1
+xue'zhong'xiang'he'san	雪中相合伞	1
 xue'zhong'yi	学中医	1
 xue'zhong'zuo	学中做	1
 xue'zhou'sheng'hen	血咒圣痕	1
@@ -1556880,6 +1557089,7 @@ xun'kao'yuan	巡考员	1
 xun'ke	巡课	1
 xun'ke	遜克	1
 xun'kong	旬空	1
+xun'kuang	寻矿	1
 xun'kuang	荀況	1
 xun'kuang'chuan'song	訊框傳送	1
 xun'kuang'chuan'song	讯框传送	1
@@ -1558613,6 +1558823,8 @@ xun'zhou'xing'dong	寻昼行动	1
 xun'zhu'ren	寻主人	1
 xun'zhu'rou	熏猪肉	1
 xun'zhuang'yun	蕈状云	1
+xun'zi	栒子	1
+xun'zi	蕈子	1
 xun'zi'lu	寻子路	1
 xun'zi'mu	栒子木	1
 xun'zi'zhi'lu	寻子之路	1
@@ -1560008,6 +1560220,7 @@ ya'li'kai'guan	压力开关	1
 ya'li'ke	亚力克	1
 ya'li'ke	亚历克	1
 ya'li'ke'diao	压力可调	1
+ya'li'ke'sa	亚历克萨	1
 ya'li'ke'si	亚历克斯	1
 ya'li'ke'xi'si	亚历克西斯	1
 ya'li'ke'xi'ya	亚莉克希亚	1
@@ -1560090,6 +1560303,7 @@ ya'li'shan'de'lu	亚历山德鲁	1
 ya'li'shan'de'luo	亚历山德罗	1
 ya'li'shan'de'luo'fu	亚历山德罗夫	1
 ya'li'shan'de'luo'si	亚历山德罗斯	1
+ya'li'shan'de'sen	亚历山德森	1
 ya'li'shan'wang'hou	亚莉珊王后	1
 ya'li'shang'sheng	压力上升	1
 ya'li'she'bei	压力设备	1
@@ -1563774,6 +1563988,7 @@ yan'dian	鹽店	1
 yan'dian'bai'jing'xia'hu'yu	眼点白睛鰕虎鱼	1
 yan'dian'bi	验电笔	1
 yan'dian'duan'wen'shi'zi'yu	眼点短吻狮子鱼	1
+yan'dian'er	严点儿	1
 yan'dian'fu'chi'zhi'li	眼点副齿脂鲤	1
 yan'dian'fu'du'fu'yu	眼点𫚒杜父鱼	1
 yan'dian'fu'ji'ping	眼点副棘鲆	1
@@ -1567115,6 +1567330,7 @@ yan'ju'gu'yin	岩居谷饮	1
 yan'ju'ji	盐焗鸡	1
 yan'ju'ji'dan	盐焗鸡蛋	1
 yan'ju'ji'fen	盐焗鸡粉	1
+yan'ju'ji'tui	盐焗鸡腿	1
 yan'ju'ou'xiang	演剧偶像	1
 yan'ju'peng	言菊朋	1
 yan'ju'ren	岩巨人	1
@@ -1568172,6 +1568388,7 @@ yan'pi'tiao'dong	眼皮跳动	1
 yan'pi'tiao'le	眼皮跳了	1
 yan'pi'tiao'le'tiao	眼皮跳了跳	1
 yan'pi'tie	眼皮贴	1
+yan'pi'xia	眼皮下	1
 yan'pi'xia'chui	眼皮下垂	1
 yan'pi'zhi'ji'su	盐皮质激素	1
 yan'pi'zhong	眼皮肿	1
@@ -1570220,6 +1570437,7 @@ yan'tu'ting'kao	沿途停靠	1
 yan'tu'ting'kao'zhan'dian	沿途停靠站点	1
 yan'tu'zhan'dian	沿途站点	1
 yan'tu'zhong	沿途中	1
+yan'tui	延退	1
 yan'tui'yun'lian	烟退云敛	1
 yan'tuo	延拓	1
 yan'tuo'ji'suan'ji	燕托计算机	1
@@ -1583139,6 +1583357,7 @@ yao'you	藥油	1
 yao'you	要由	1
 yao'you'ai	要有爱	1
 yao'you'ai'xin	要有爱心	1
+yao'you'ce	腰右侧	1
 yao'you'duo'xi	腰有多细	1
 yao'you'gao'du	要有高度	1
 yao'you'ge	要有个	1
@@ -1583595,6 +1583814,7 @@ yao'zuo	尧佐	1
 yao'zuo	要作	1
 yao'zuo	要做	1
 yao'zuo	要坐	1
+yao'zuo'ce	腰左侧	1
 yao'zuo'cheng	要做成	1
 yao'zuo'dao	要做到	1
 yao'zuo'hao	要做好	1
@@ -1584869,6 +1585089,7 @@ ye'hua'fang'gui	野化放归	1
 ye'hua'gong'ju	液化工具	1
 ye'hua'he'bai'qian	夜华和白浅	1
 ye'hua'ji	野画集	1
+ye'hua'jiao	野花椒	1
 ye'hua'kai	野花开	1
 ye'hua'kong'qi	液化空气	1
 ye'hua'qi	液化器	1
@@ -1586256,6 +1586477,8 @@ ye'mei'gui	夜玫瑰	1
 ye'mei'gui	野玫瑰	1
 ye'mei'he'ye'jiao	页眉和页脚	1
 ye'mei'ji'ge	也没几个	1
+ye'mei'ji'nian	也没几年	1
+ye'mei'ji'nian'le	也没几年了	1
 ye'mei'ji'xu	也没继续	1
 ye'mei'ji'xu'xia'qu	也没继续下去	1
 ye'mei'ji'zhu	也没记住	1
@@ -1596449,6 +1596672,7 @@ yi'dai'ge'shen	一代歌神	1
 yi'dai'ge'wang	一代歌王	1
 yi'dai'geng'bi'yi'dai'qiang	一代更比一代强	1
 yi'dai'gong'fu'ju'xing	一代功夫巨星	1
+yi'dai'gou	衣带钩	1
 yi'dai'guan'mian	一代冠冕	1
 yi'dai'guo'ji	一代国际	1
 yi'dai'guo'se	一代国色	1
@@ -1607805,6 +1608029,7 @@ yi'jing	易經	1
 yi'jing	義淨	1
 yi'jing	義警	1
 yi'jing	譯經	1
+yi'jing	译经	1
 yi'jing	遺精	1
 yi'jing'an'pai'hao'le	已经安排好了	1
 yi'jing'an'zhuang	已经安装	1
@@ -1621378,6 +1621603,7 @@ yi'sa'ge	伊萨格	1
 yi'sa'ka	伊薩卡	1
 yi'sa'ka'kong'gu	亿萨佧控股	1
 yi'sa'ke	伊萨克	1
+yi'sa'ke'sen	伊萨克森	1
 yi'sa'li'ao'si	伊萨里奥斯	1
 yi'sa'li'ao'si'de'dong'xue	伊萨里奥斯的洞穴	1
 yi'sa'qi'ba'xi	伊萨奇巴希	1
@@ -1644661,6 +1644887,9 @@ yin'tuo'luo	因陀羅	1
 yin'tuo'luo'he'a'xiu'luo	因陀罗和阿修罗	1
 yin'tuo'luo'zhi'shi	因陀罗之矢	1
 yin'tuo'luo'zhuan'shi	因陀罗转世	1
+yin'wa'gang	因瓦钢	1
+yin'wa'he'jin	因瓦合金	1
+yin'wa'xiao'ying	因瓦效应	1
 yin'wan	银碗	1
 yin'wan'cha	饮晚茶	1
 yin'wan'ren	引万人	1
@@ -1668798,6 +1669027,7 @@ you'luan	油卵	1
 you'luan'dao'zhi	由乱到治	1
 you'luan'ma	有乱码	1
 you'luan'yong	有卵用	1
+you'lun	右轮	1
 you'lun	油輪	1
 you'lun	郵輪	1
 you'lun'bao'zha	油轮爆炸	1
@@ -1675572,6 +1675802,8 @@ you'xie'yun	有些晕	1
 you'xie'yun'xuan	有些晕眩	1
 you'xie'zhang	有些长	1
 you'xie'zhuai	有些跩	1
+you'xie'zhuang	有些壮	1
+you'xie'zhuang	有些装	1
 you'xie'zi	有些字	1
 you'xie'zi'chao	有些自嘲	1
 you'xie'zui'yi	有些醉意	1
@@ -1677534,6 +1677766,7 @@ you'yin'bi'you'guo	有因必有果	1
 you'yin'huan	有隐患	1
 you'yin'ji	油印机	1
 you'yin'ji	油印機	1
+you'yin'qing	有隐情	1
 you'yin'rou'liu	尤因肉瘤	1
 you'yin'si	有隐私	1
 you'yin'tong'xin	优音通信	1
@@ -1682165,6 +1682398,7 @@ yu'ge'ge	于哥哥	1
 yu'ge'ge	煜哥哥	1
 yu'ge'ge	玉哥哥	1
 yu'ge'guo	与各国	1
+yu'ge'han'shu	余割函数	1
 yu'ge'hu'da	渔歌互答	1
 yu'ge'mi	与歌迷	1
 yu'ge'ren	与个人	1
@@ -1686372,6 +1686606,7 @@ yu'qiao'xiao'qu	玉桥小区	1
 yu'qiao'zhong'lu	玉桥中路	1
 yu'qiao'zhong'lu'bei'kou	玉桥中路北口	1
 yu'qie	餘切	1
+yu'qie'han'shu	余切函数	1
 yu'qie'qing'zhen	语切情真	1
 yu'qie'yun'jiao	雨怯云娇	1
 yu'qin	于钦	1
@@ -1700506,6 +1700741,7 @@ yue'huo'yue'yong'hu'shu'liang	月活跃用户数量	1
 yue'huo'yue'you	越活越有	1
 yue'huo'yue'zhang'hu'shu	月活跃账户数	1
 yue'huo'yue'zi'run	越活越滋润	1
+yue'ji	悦己	1
 yue'ji	約計	1
 yue'ji	約集	1
 yue'ji	越急	1
@@ -1709545,10 +1709781,12 @@ za'xia'lai'le	砸下来了	1
 za'xia'qu	砸下去	1
 za'xia'qu	紮下去	1
 za'xia'zhong'jin	砸下重金	1
+za'xiang	咋想	1
 za'xiang	砸向	1
 za'xiang	雜項	1
 za'xiang'chu'lai	咋想出来	1
 za'xiang'chu'lai'de	咋想出来的	1
+za'xiang'de	咋想的	1
 za'xiang'fei'yong	杂项费用	1
 za'xiang'fei'yong	雜項費用	1
 za'xiang'shou'ru	杂项收入	1
@@ -1716623,15 +1716861,18 @@ zai'yi'qi'de'shi'hou	在一起的时候	1
 zai'yi'qi'de'shi'jian	在一起的时间	1
 zai'yi'qi'de'xing'fu	在一起的幸福	1
 zai'yi'qi'hao'ma	在一起好吗	1
+zai'yi'qi'hou	在一起后	1
 zai'yi'qi'jiu'hao	在一起就好	1
 zai'yi'qi'la	在一起啦	1
 zai'yi'qi'le	在一起了	1
 zai'yi'qi'ma	在一起吗	1
 zai'yi'qi'ma'hao'bu'hao	在一起嘛好不好	1
 zai'yi'qi'na	在一起那	1
+zai'yi'qi'sheng'huo	在一起生活	1
 zai'yi'qi'shi	在一起时	1
 zai'yi'qi'ya	在一起呀	1
 zai'yi'qi'yi'bei'zi	在一起一辈子	1
+zai'yi'qi'yi'hou	在一起以后	1
 zai'yi'qi'zai'yi'qi	在一起在一起	1
 zai'yi'qian	在以前	1
 zai'yi'qie	在一切	1
@@ -1720289,6 +1720530,7 @@ zao'ni'song'gao	枣泥松糕	1
 zao'ni'su	枣泥酥	1
 zao'ni'su'bing	枣泥酥饼	1
 zao'ni'xian	枣泥馅	1
+zao'ni'zhuan	遭逆转	1
 zao'nian'ceng	早年曾	1
 zao'nian'chu'dao	早年出道	1
 zao'nian'de	早年的	1
@@ -1742363,6 +1742605,7 @@ zhao'hua'gong'zhu	昭华公主	1
 zhao'hua'gu'cheng	昭化古城	1
 zhao'hua'guang	赵华光	1
 zhao'hua'lu	昭化路	1
+zhao'hua'mian	找画面	1
 zhao'hua'qian'hou'jing	照花前后镜	1
 zhao'hua're'cao	招花惹草	1
 zhao'hua'ti	找话题	1
@@ -1742574,11 +1742817,14 @@ zhao'hun'shi	招魂师	1
 zhao'hun'shu	招魂术	1
 zhao'hun'ta	招魂塔	1
 zhao'hun'yang'fan	招魂扬幡	1
+zhao'huo	找活	1
 zhao'huo	招祸	1
 zhao'huo	招禍	1
 zhao'huo	肇禍	1
 zhao'huo'ban	找伙伴	1
 zhao'huo'che	找货车	1
+zhao'huo'er	找活儿	1
+zhao'huo'er'gan	找活儿干	1
 zhao'huo'gan	找活干	1
 zhao'huo'la	着火啦	1
 zhao'huo'le	着火了	1
@@ -1743017,6 +1743263,7 @@ zhao'kuai'ji	找会计	1
 zhao'kuai'ji	招会计	1
 zhao'kuai'le	找快乐	1
 zhao'kuan'dai	兆宽带	1
+zhao'kuang	找矿	1
 zhao'kuang'yi	赵匡义	1
 zhao'kuang'yin	趙匡胤	1
 zhao'kuang'yin'bei'jiu'shi'bing'quan	赵匡胤杯酒释兵权	1
@@ -1744922,6 +1745169,7 @@ zhao'shu'yang	照书养	1
 zhao'shu'zhen	赵淑珍	1
 zhao'shu'zi	找数字	1
 zhao'shuai'ge	找帅哥	1
+zhao'shui	找水	1
 zhao'shui	找誰	1
 zhao'shui	找谁	1
 zhao'shui'a	找谁啊	1
@@ -1748950,6 +1749198,7 @@ zhe'jiang'zhong'kao	浙江中考	1
 zhe'jiang'zhong'lu	浙江中路	1
 zhe'jiang'zhong'yi'xue'yuan	浙江中医学院	1
 zhe'jiang'zhong'yi'yao'da'xue	浙江中医药大学	1
+zhe'jiang'zhong'yi'yuan	浙江中医院	1
 zhe'jiang'zhou'shan	浙江舟山	1
 zhe'jiang'zhou'shan'shi	浙江舟山市	1
 zhe'jiang'zhu'ji	浙江诸暨	1
@@ -1763741,6 +1763990,7 @@ zheng'ge'hai'tan	整个海滩	1
 zheng'ge'hai'yang	整个海洋	1
 zheng'ge'han'guo	整个韩国	1
 zheng'ge'han'jia	整个寒假	1
+zheng'ge'han'shu	正割函数	1
 zheng'ge'han'zhu	整个含住	1
 zheng'ge'hang'ye	整个行业	1
 zheng'ge'hang'ye'de'fa'zhan	整个行业的发展	1
@@ -1769000,6 +1769250,7 @@ zheng'wei'wang	政委王	1
 zheng'wei'wen	郑伟文	1
 zheng'wei'yang	政委杨	1
 zheng'wei'yuan	政委员	1
+zheng'wei'yue'jin	挣违约金	1
 zheng'wei'zhang	政委张	1
 zheng'wei'zhao'gang	政委赵刚	1
 zheng'wei'zhi'qu	郑卫之曲	1
@@ -1774990,6 +1775241,7 @@ zhi'chuo'xin'wo	直戳心窝	1
 zhi'ci	之詞	1
 zhi'ci	之词	1
 zhi'ci	之辞	1
+zhi'ci	制瓷	1
 zhi'ci	只此	1
 zhi'ci	直刺	1
 zhi'ci	致詞	1
@@ -1800243,6 +1800495,7 @@ zhong'guo'bian'hua	中国变化	1
 zhong'guo'bian'jiang	中国边疆	1
 zhong'guo'bian'jing	中国边境	1
 zhong'guo'bian'ju	中国编剧	1
+zhong'guo'bian'qiao	中国扁锹	1
 zhong'guo'biao'ha	中国杓蛤	1
 zhong'guo'biao'shi	中国表示	1
 zhong'guo'biao'xian	中国表现	1
@@ -1806061,6 +1806314,7 @@ zhong'hei'mu'xu'mang'chun	中黑苜蓿盲蝽	1
 zhong'hei'xiao'piao'chong	中黑小瓢虫	1
 zhong'hei'ye'feng	中黑叶蜂	1
 zhong'hen	中很	1
+zhong'hen'duo	重很多	1
 zhong'heng	中横	1
 zhong'heng	中橫	1
 zhong'heng'ji'tuan	中恒集团	1
@@ -1813654,6 +1813908,7 @@ zhong'xing'bao'zhuang	中性包装	1
 zhong'xing'bao'zhuang	重型包装	1
 zhong'xing'bei'bao	中型背包	1
 zhong'xing'bei'lu	中兴北路	1
+zhong'xing'bi'ti'xin	中性笔替芯	1
 zhong'xing'bi'xin	中性笔芯	1
 zhong'xing'bie	種型別	1
 zhong'xing'bing'li	重型病例	1
@@ -1825189,6 +1825444,7 @@ zhu'jia	主家	1
 zhu'jia	朱家	1
 zhu'jia	猪价	1
 zhu'jia	竹架	1
+zhu'jia	蛛甲	1
 zhu'jia	诸家	1
 zhu'jia'a'yi	住家阿姨	1
 zhu'jia'ban	主甲板	1
@@ -1831487,9 +1831743,11 @@ zhu'ye'fang'ke	主页访客	1
 zhu'ye'fang'wen	主页访问	1
 zhu'ye'guan	贮液罐	1
 zhu'ye'he'hua	主耶和华	1
+zhu'ye'hua'jiao	竹叶花椒	1
 zhu'ye'ji	注液机	1
 zhu'ye'ji'tuan	株冶集团	1
 zhu'ye'jian	主页键	1
+zhu'ye'jiao	竹叶椒	1
 zhu'ye'jing'ying	主业经营	1
 zhu'ye'jiu	主也就	1
 zhu'ye'jun	主页君	1
@@ -1833527,6 +1833785,8 @@ zhua'dao'xian'xing	抓到现行	1
 zhua'de	抓得	1
 zhua'de	抓的	1
 zhua'de'bi	抓得比	1
+zhua'de'bu'jin	抓得不紧	1
+zhua'de'bu'yan	抓得不严	1
 zhua'de'dao	抓得到	1
 zhua'de'fei'chang'jin	抓得非常紧	1
 zhua'de'hao	抓得好	1
@@ -1833985,11 +1834245,15 @@ zhua'xue'sheng	抓学生	1
 zhua'xue'xi	抓学习	1
 zhua'xun'lian	抓训练	1
 zhua'ya'zi	抓鸭子	1
+zhua'yan'dian	抓严点	1
+zhua'yan'dian'er	抓严点儿	1
 zhua'yan'ji	抓岩机	1
 zhua'yan'ji	抓岩機	1
 zhua'yan'ji	抓巖機	1
 zhua'yan'ji	抓烟机	1
 zhua'yan'qiu	抓眼球	1
+zhua'yan'yi'dian	抓严一点	1
+zhua'yan'yi'dian'er	抓严一点儿	1
 zhua'yan'zhua'shi	抓严抓实	1
 zhua'yang	抓癢	1
 zhua'yang'rou	抓羊肉	1
@@ -1835854,6 +1836118,7 @@ zhuan'lan'ji'zhe	专栏记者	1
 zhuan'lan'jie'mu	专栏节目	1
 zhuan'lan'ming'cheng	专栏名称	1
 zhuan'lan'nei'rong	专栏内容	1
+zhuan'lan'qiu	转篮球	1
 zhuan'lan'shang	专栏上	1
 zhuan'lan'shou'ye	专栏首页	1
 zhuan'lan'tui'jian	专栏推荐	1
@@ -1835915,6 +1836180,7 @@ zhuan'li	专力	1
 zhuan'li	專利	1
 zhuan'li	篆隶	1
 zhuan'li	篆隸	1
+zhuan'li	转隶	1
 zhuan'li'an	专利案	1
 zhuan'li'an'jian	专利案件	1
 zhuan'li'bao'hu	专利保护	1
@@ -1836565,6 +1836831,7 @@ zhuan'qing	转晴	1
 zhuan'qing	转请	1
 zhuan'qing	转青	1
 zhuan'qing'yu	专情于	1
+zhuan'qiu	转球	1
 zhuan'qu	專區	1
 zhuan'qu	賺去	1
 zhuan'qu	賺取	1
@@ -1837476,6 +1837743,7 @@ zhuan'wei'que'zhen'bing'li	转为确诊病例	1
 zhuan'wei'wei'an	轉危為安	1
 zhuan'wei'wei'ji	转危为机	1
 zhuan'wei'you'xi'er'sheng	专为游戏而生	1
+zhuan'wei'yue'jin	赚违约金	1
 zhuan'wei'zhong'guo'shi'chang	专为中国市场	1
 zhuan'wei'zhong'guo'shi'chang'da'zao	专为中国市场打造	1
 zhuan'wen	专文	1
@@ -1840489,6 +1840757,7 @@ zhuan'zhuan'kan	转转看	1
 zhuan'zhuan'kuai'wai	赚赚快外	1
 zhuan'zhuan'ping'tai	转转平台	1
 zhuan'zhuan'qian	赚赚钱	1
+zhuan'zhuan'wai'kuai	赚赚外快	1
 zhuan'zhuan'ye	转专业	1
 zhuan'zhuan'ye'kao'shi	转专业考试	1
 zhuan'zhuan'ye'shen'qing	转专业申请	1
@@ -1840996,6 +1841265,7 @@ zhuang'de'xiang	壮得像	1
 zhuang'de'xiang	装得像	1
 zhuang'de'zhe	撞得着	1
 zhuang'de'zhen'xiang	装得真像	1
+zhuang'di	撞地	1
 zhuang'di'ban	装地板	1
 zhuang'di'qiu	撞地球	1
 zhuang'dian	妝點	1
@@ -1850093,6 +1850363,7 @@ zi'ji'hui'jia	自己回家	1
 zi'ji'hui'lai	自己回来	1
 zi'ji'huo'jia'ren	自己或家人	1
 zi'ji'huo'ta'ren	自己或他人	1
+zi'ji'jia	自己加	1
 zi'ji'jia	自己家	1
 zi'ji'jia'li	自己家里	1
 zi'ji'jia'li'ren	自己家里人	1
@@ -1880231,6 +1880502,7 @@ zuo'chan'teng	左缠藤	1
 zuo'chan'ye	做产业	1
 zuo'chan'zhao'fu	坐产招夫	1
 zuo'chang	做场	1
+zuo'chang'bian	坐场边	1
 zuo'chang'jing	做场景	1
 zuo'chang'jing	做肠镜	1
 zuo'chang'tu	坐长途	1
@@ -1884326,11 +1884598,13 @@ zuo'tang'he	做汤喝	1
 zuo'tang'shi'shai'cha	做唐氏筛查	1
 zuo'tang'yi	坐堂医	1
 zuo'tang'yuan	做汤圆	1
+zuo'tao	做陶	1
 zuo'tao	座套	1
 zuo'tao'bao	做淘宝	1
 zuo'tao'bao'ke	做淘宝客	1
 zuo'tao'ci	做陶瓷	1
 zuo'tao'ke	做淘客	1
+zuo'tao'qi	做陶器	1
 zuo'tao'yi	做陶艺	1
 zuo'te'jia	做特价	1
 zuo'te'se	做特色	1

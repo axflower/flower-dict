@@ -1,26 +1,8 @@
 {
-  "schema_version": 1,
-  "version": "0.2.0",
-  "target_words": 2154359,
-  "target_sha256": "63a5797b34cac7db4418a62b5d6065b3395deeb724ddab8d0b13d81ccdfc0a3e",
-  "words": 2168043,
-  "reading_kind": {
-    "A": 1887541,
-    "E": 192527,
-    "L": 42662,
-    "U": 45313
-  },
-  "expanded_pairs": 1887541,
-  "default_pairs_before": 201109,
-  "default_pairs_after": 2088650,
-  "missing_target_words": 0,
   "automatic_readings_manually_verified": false,
-  "reading_engine": "pypinyin 0.55.0; existing exact words first",
-  "new_weights": "uniform project weight 1; not corpus frequency",
   "baseline_sha256": {
     "data/pinyin/base_lexicon.tsv": "a3ad35e0826423e8dc89f8b1fd95fbbd30670eec48ae3f17b751a1442800dec3",
-    "data/pinyin/phrases/phrase_lexicon.tsv": "e3156ace640902e0164009895c3dedc89bcbd54da581e952f0e88c923bf9a0d0",
-    "data/pinyin/everyday_phrases.tsv": "0b61378faaecc1a53f71400b402d1f3af3ae65b7be2b5b545b2785290fc8fdae",
+    "data/pinyin/categories/IT.tsv": "6dcfcfc9b74da9cced8b2643bf9efebd540c980446e57f6673757ab5e6fc99ff",
     "data/pinyin/categories/animal.tsv": "b878b7aa99449db182daac5275ae0d3f0e4a27e4f9eed497397ee66e8cf4b087",
     "data/pinyin/categories/caijing.tsv": "5fb42aa950b37e4ee1d3988fc8851130511f8628f4165612915341a0f060e3d1",
     "data/pinyin/categories/car.tsv": "063ba97e8c5d915a3f0b0037c5bb1df5e8076f53b3611a1ca08c3300b403f561",
@@ -29,25 +11,43 @@
     "data/pinyin/categories/diming.tsv": "13ddc20ead2399bcb9c9a3b086c0337902999c15b00e304e0899c94b8a1472d2",
     "data/pinyin/categories/erhua.tsv": "20a6e5d9b75c91bf0a1974c25e2c7cf783eb444b0f620ea69872ed454b3b2172",
     "data/pinyin/categories/food.tsv": "2faa4f011dbdeaf1b51a474bbbe85b1d8cbc593f07ff8be1940cde4ebc041a3f",
-    "data/pinyin/categories/IT.tsv": "6dcfcfc9b74da9cced8b2643bf9efebd540c980446e57f6673757ab5e6fc99ff",
     "data/pinyin/categories/law.tsv": "405f49810f2a69ba30ecde9149bb1a268029c3ec3470e883d07b6103720534d0",
     "data/pinyin/categories/lishimingren.tsv": "aeb13e6178d11f6ab763ec4867e65e575c100f52a80ebbf6fc2fcab044ed3f3c",
     "data/pinyin/categories/medical.tsv": "2619456be72de4b4e1f557ad3a227c7d02ba4f648ed8738e49e7d2db49ec57ed",
     "data/pinyin/categories/poem.tsv": "eb453967765c0a5e5ffdcef00133c7a7351b195649436cbd5ba1918b8340c9f6",
+    "data/pinyin/everyday_phrases.tsv": "0b61378faaecc1a53f71400b402d1f3af3ae65b7be2b5b545b2785290fc8fdae",
+    "data/pinyin/phrases/phrase_lexicon.tsv": "e3156ace640902e0164009895c3dedc89bcbd54da581e952f0e88c923bf9a0d0",
     "data/pinyin/phrases/proper_lexicon.tsv": "30350f787ae8bbb4d576cfddc1e0edd7284301546ec20188a93cb9bbdcceff68"
   },
+  "default_pairs_after": 2088924,
+  "default_pairs_before": 201109,
+  "expanded_pairs": 1887815,
+  "missing_target_words": 0,
+  "new_weights": "uniform project weight 1; not corpus frequency",
   "outputs": {
-    "expanded.tsv": {
-      "bytes": 59302671,
-      "sha256": "12669ecc1bda04813d5fdb9bd8196972ccbdca022f1b03050e217ae477043c34"
-    },
     "catalog.tsv": {
-      "bytes": 31158596,
-      "sha256": "17a0aceedb52fbf2c671073178ba91befdb21927a3309d33f90f6c0f04220e9b"
+      "bytes": 31162141,
+      "sha256": "4ccb6a432f45491e6f52a08b569ed75afc0beda85924f33503605e1c80ad2702"
+    },
+    "expanded.tsv": {
+      "bytes": 59309795,
+      "sha256": "5c379d119f64c6531cbe8b09ba89b90a9525f165b90066ae8e9ad93c80be1133"
     },
     "unresolved.txt": {
       "bytes": 225804,
       "sha256": "c3b1dfce035f061f4a8d7c93e8c582e31f4d537fbbbbf99d79dc2acc40ff8ac0"
     }
-  }
+  },
+  "reading_engine": "pypinyin 0.55.0; existing exact words first",
+  "reading_kind": {
+    "A": 1887815,
+    "E": 192527,
+    "L": 42663,
+    "U": 45313
+  },
+  "schema_version": 1,
+  "target_sha256": "5067ccf3fdb39dc237fdd8560499e7311720a88b17a215f6a2cf0ca562614ce4",
+  "target_words": 2154640,
+  "version": "0.2.0",
+  "words": 2168318
 }

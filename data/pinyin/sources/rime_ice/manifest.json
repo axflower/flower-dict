@@ -1,0 +1,144 @@
+{
+  "commit": "927e1cf1d3eeb9bf4be85e3f684dba4dd485b6f6",
+  "declared_license": "GPL-3.0-only",
+  "files": {
+    "LICENSE": {
+      "bytes": 35149,
+      "git_blob": "f288702d2fa16d3cdf0035b15a9fcbc552cd88e7",
+      "sha256": "3972dc9744f6499f0f9b2dbf76696f2ae7ad8af9b23dde66d6af86c9dfb36986"
+    },
+    "README.md": {
+      "bytes": 20494,
+      "git_blob": "924ffc7bd68a193203e6bd9fb2d5d5de2c31e620",
+      "sha256": "818e752e0e4bc38eadd17fd11e4139d31379aa0193476f3885b9f40e3a95f37e"
+    },
+    "cn_dicts/41448.dict.yaml": {
+      "bytes": 387353,
+      "git_blob": "f29621c55455e3ff0c99cadec64a317d11c8d951",
+      "sha256": "39102601365554433396fa64947010f5a15e7a2c27d22f6cce4d80775919e7bc"
+    },
+    "cn_dicts/8105.dict.yaml": {
+      "bytes": 115728,
+      "git_blob": "b2e80ec5231c972898e573b412f0378320b08adb",
+      "sha256": "1f9a42b91dea6982baee2551981780271aeffd78876662b9c9f324e56b37b120"
+    },
+    "cn_dicts/base.dict.yaml": {
+      "bytes": 16609062,
+      "git_blob": "459b42f03909402b5b6ae74e1cdc9b1c169fbae9",
+      "sha256": "c1f07daa4680a437a04169211e4a80b19923fd61cff322753d3ee98a7e1bffc8"
+    },
+    "cn_dicts/ext.dict.yaml": {
+      "bytes": 11923503,
+      "git_blob": "8bfaa9d17cc14a19a3f6cc0e55d8fb158e1755e2",
+      "sha256": "f713d82f5a3c38bf955fef631353c6bd08c3e1ae6674d7db0c4f286480d760a1"
+    },
+    "cn_dicts/others.dict.yaml": {
+      "bytes": 17454,
+      "git_blob": "e300d40b1ccf91fc410be6ac8d008b9fc8f1ec9e",
+      "sha256": "c7475d773e619f61b88d47fa8ec789aba02aa0d1c98edaed309e53487b048b32"
+    },
+    "cn_dicts/tencent.dict.yaml": {
+      "bytes": 17339328,
+      "git_blob": "cc0311a390480607a7bd804025aa5d1e5556e196",
+      "sha256": "af31db5df83239e50ee6da015ab5801953be544117fcf7419988ca315f55102b"
+    },
+    "custom_phrase.txt": {
+      "bytes": 1708,
+      "git_blob": "dc03617b8d9a0eb05beb22507d74e7ade6026c52",
+      "sha256": "dd344d785f7244c79fee1a1601cd7f928fb3cce8dad66d3e1dfa4962ba59b0d7"
+    },
+    "en_dicts/cn_en.txt": {
+      "bytes": 16050,
+      "git_blob": "fdd3f29f884f43cd6b8c650cb6ea6f6c6c6f58cd",
+      "sha256": "e52ffc88598eb3d4db476a10064df3e8bbb6c23bc4c3969723f3dfab45ad4089"
+    },
+    "en_dicts/cn_en_abc.txt": {
+      "bytes": 14324,
+      "git_blob": "493ff9b1da51b7d40a8425e158828ff7f2d58b74",
+      "sha256": "3f53416ff5acebeb564ab894c10b33cd2b212bd6520012f62b6b9db324c1e9e8"
+    },
+    "en_dicts/cn_en_double_pinyin.txt": {
+      "bytes": 14334,
+      "git_blob": "bd06bd6a36d365ecf0015b2be1183fa77c3a99d1",
+      "sha256": "eb91037140fefa1a9f62141f2e64e50da54a7aaabd58d40d0c03e06a8ec45943"
+    },
+    "en_dicts/cn_en_flypy.txt": {
+      "bytes": 14323,
+      "git_blob": "ea3c70352609ecfbe4a4b2cb6a9b15e9e618ad9e",
+      "sha256": "edeee1d7a84b378a248a3ea1384f22dcfde64694caee87fe05901a09a90cfc6f"
+    },
+    "en_dicts/cn_en_jiajia.txt": {
+      "bytes": 14328,
+      "git_blob": "32d10962a34dffaba2e14adf413110c7ddaee101",
+      "sha256": "d79db38e8202b0ec0bcce60310d3a50df6ea03a8dcbc69c128f073485dd659a5"
+    },
+    "en_dicts/cn_en_mspy.txt": {
+      "bytes": 14322,
+      "git_blob": "ecfd48c5b33b38e6692b39250a1d9b394dbed7e4",
+      "sha256": "c21e2ea1c50e6fc718075876dec3efbaccd920767864240a814a1213825da5d0"
+    },
+    "en_dicts/cn_en_sogou.txt": {
+      "bytes": 14323,
+      "git_blob": "7503c5e0f63c3753d9a7597afeb7588187b942e5",
+      "sha256": "3aaf228f9a9816dd1685cbeecb8ec47b25bd8db44d71adc99987d13f56e9eaea"
+    },
+    "en_dicts/cn_en_ziguang.txt": {
+      "bytes": 14323,
+      "git_blob": "39a2a50d29b1484e39d2c27ff90ea7b53882e4c6",
+      "sha256": "401670289d24c6e02bdc197cf9d597636b340f84c49dac42596cbe94a64a995d"
+    },
+    "en_dicts/en.dict.yaml": {
+      "bytes": 371066,
+      "git_blob": "98b50128b0b3e49845f7974a6d206426a49a32d3",
+      "sha256": "1049164da983c1c5a933d6401df9a8e5f8a378b0c67b102e0f75f0a65226ec44"
+    },
+    "en_dicts/en_ext.dict.yaml": {
+      "bytes": 52724,
+      "git_blob": "d233d63802257429f9ec8366ff32b996777f6ce2",
+      "sha256": "c8648c1dc1ad691c77ef29525244d42482b2e8bcabe08355baec241f563306a2"
+    },
+    "opencc/emoji.json": {
+      "bytes": 352,
+      "git_blob": "e2cac3e79f17fe95a32f290c50c1294f7e82fea5",
+      "sha256": "79fe3b878625d8f96d70aeb6c4d1929ab2a582f8b935d309125b6ccffd799602"
+    },
+    "opencc/emoji.txt": {
+      "bytes": 132908,
+      "git_blob": "bbf9badf5b6bb5413651cbdd8c87f8c5f70bcdac",
+      "sha256": "09e29b83ad367ea273e9ab438e572a7621649d93b36924ead28852762d2898b1"
+    },
+    "opencc/others.txt": {
+      "bytes": 45735,
+      "git_blob": "9d7a5872271c376b8510cbf0065275a8fe9e115b",
+      "sha256": "9595273a49139e1184bca0f1923660793b3873d7b4996d0a5dd665e777d4e55c"
+    },
+    "radical_pinyin.dict.yaml": {
+      "bytes": 2167717,
+      "git_blob": "fcdd2e927acf52777c3969a4459068ebb8400a89",
+      "sha256": "298bb907aff1d17fdc34e097f35dcfd3547e8a28d2640fa2c87340ce7e2ce058"
+    },
+    "rime_ice.dict.yaml": {
+      "bytes": 1407,
+      "git_blob": "3ecce19ad1a5bb0ef443b25cdc5b564e91df6806",
+      "sha256": "30fa643eec7af585cffacdd9bb6556ce4d17a0e848b83ea1fca3fdcfc5891595"
+    },
+    "rime_ice.schema.yaml": {
+      "bytes": 19484,
+      "git_blob": "a90451958c9c2e185fa0e9cbd363c7ae74667142",
+      "sha256": "ec4b0dd02ac287f53fe401f315cde648913eb60bb8cf8d9a8a613d1eb4f9698b"
+    },
+    "symbols_caps_v.yaml": {
+      "bytes": 29731,
+      "git_blob": "ef342c51780cdd646e1a809e6494438834ad7996",
+      "sha256": "1423988324bd447535810f0dbcbc71b228eef821be2c122511707c0c7d4e684a"
+    },
+    "symbols_v.yaml": {
+      "bytes": 31123,
+      "git_blob": "7bb41cd646150d5b9330651a7f37ca69e2d67241",
+      "sha256": "00aa27e61b8cb886b048561cbe353997cbd183a8c0b37fcc9f0439b89e80c4be"
+    }
+  },
+  "repository": "https://github.com/iDvel/rime-ice",
+  "schema_version": 1,
+  "scope": "static text records and explicit default Chinese Pinyin, not upstream scripts or dynamic outputs"
+}

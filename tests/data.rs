@@ -3,8 +3,8 @@ use std::collections::HashSet;
 
 #[test]
 fn all_tables_parse_and_default_snapshot_preserves_pairs() {
-    assert_eq!(all_tables().count(), 19);
-    assert_eq!(default_tables().count(), 17);
+    assert_eq!(all_tables().count(), 20);
+    assert_eq!(default_tables().count(), 18);
     assert!(!table("proper").unwrap().default_enabled);
     assert!(!table("legacy-mvp").unwrap().default_enabled);
     let mut all_ids = HashSet::new();
@@ -30,7 +30,7 @@ fn all_tables_parse_and_default_snapshot_preserves_pairs() {
             assert_eq!(count, 803);
         }
     }
-    assert_eq!(default_pairs.len(), 2088650);
+    assert_eq!(default_pairs.len(), 2112294);
     let combined: HashSet<_> = entries(DEFAULT_TSV)
         .map(|r| {
             let e = r.unwrap();
@@ -77,8 +77,8 @@ fn complete_vocabulary_preserves_literals_and_tracks_automatic_readings() {
             examples.insert(word.text, word.reading_kind);
         }
     }
-    assert_eq!(counts, [192527, 1887541, 42662, 45313]);
-    assert_eq!(counts.iter().sum::<usize>(), 2168043);
+    assert_eq!(counts, [192527, 1887815, 42663, 45313]);
+    assert_eq!(counts.iter().sum::<usize>(), 2168318);
     assert_eq!(examples.len(), wanted.len());
     assert_eq!(examples["情绪价值"], ReadingKind::Existing);
     assert_eq!(examples["人工智能与大数据"], ReadingKind::Automatic);
@@ -139,7 +139,41 @@ fn baseline_and_licenses_are_packaged_assets() {
         "data/pinyin/sources/UNICODE-LICENSE.txt",
         "data/pinyin/phrases/sources/CC-BY-SA-4.0.txt",
         "data/pinyin/sources/thuocl/LICENSE",
+        "data/pinyin/sources/rime_ice/LICENSE",
     ] {
         assert!(flower_dict::asset(name).unwrap().len() > 1000);
+    }
+}
+
+#[test]
+fn source_phrase_readings_and_positive_weights_are_available_without_reweighting_characters() {
+    let source = table("source-phrases").unwrap();
+    assert!(source.default_enabled);
+    assert_eq!(source.license, "GPL-3.0-only");
+    let mut found = HashSet::new();
+    for result in source.entries() {
+        let entry = result.unwrap();
+        if entry.text.chars().count() == 1 {
+            assert_eq!(entry.weight, 1);
+        }
+        for expected in [
+            ("you'jian", "邮件", 7819),
+            ("xie'xie", "谢谢", 7825),
+            ("gan'jue", "感觉", 7833),
+            ("yu'qie'han'shu", "余切函数", 1),
+        ] {
+            if (entry.pinyin, entry.text) == (expected.0, expected.1) {
+                assert_eq!(entry.weight, expected.2);
+                found.insert(entry.text);
+            }
+        }
+    }
+    assert_eq!(found.len(), 4);
+    for path in [
+        "data/pinyin/rime_ice/coverage.json",
+        "data/pinyin/rime_ice/NOTICE.md",
+        "data/pinyin/sources/rime_ice/manifest.json",
+    ] {
+        assert!(!flower_dict::asset(path).unwrap().is_empty());
     }
 }

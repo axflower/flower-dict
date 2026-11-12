@@ -1,0 +1,59 @@
+{
+  "added_catalog_words": 275,
+  "additional_pinyin_pairs": 23370,
+  "baseline_catalog_words": 2168043,
+  "catalog_words": 2168318,
+  "default_pairs_with_source_table": 2112294,
+  "default_pairs_without_source_table": 2088924,
+  "excluded": {
+    "empty_or_control_candidates": 2
+  },
+  "existing_pairs_with_higher_source_weight": 318318,
+  "lexicon_bytes": 26754222,
+  "lexicon_pairs": 883073,
+  "lexicon_policy_counts": {
+    "duplicate_pairs_first_source_wins": 260,
+    "existing_single_pairs_not_reweighted": 8694,
+    "missing_weight_project_fallback_1": 372,
+    "without_explicit_pinyin": 981815
+  },
+  "lexicon_sha256": "1227ebf866218f699182a311a93272dd6e203e6102027bf013a39b1c30108e7a",
+  "license": "GPL-3.0-only",
+  "missing_source_words": 0,
+  "phrase_weight_policy": {
+    "cap": 8192,
+    "divisor": 64,
+    "kind": "project-scaled source weight",
+    "minimum": 1
+  },
+  "schema_version": 1,
+  "source_commit": "927e1cf1d3eeb9bf4be85e3f684dba4dd485b6f6",
+  "source_file_word_counts": {
+    "cn_dicts/41448.dict.yaml": 40423,
+    "cn_dicts/8105.dict.yaml": 8183,
+    "cn_dicts/base.dict.yaml": 542340,
+    "cn_dicts/ext.dict.yaml": 338214,
+    "cn_dicts/others.dict.yaml": 620,
+    "cn_dicts/tencent.dict.yaml": 981543,
+    "custom_phrase.txt": 32,
+    "en_dicts/cn_en.txt": 514,
+    "en_dicts/cn_en_abc.txt": 514,
+    "en_dicts/cn_en_double_pinyin.txt": 514,
+    "en_dicts/cn_en_flypy.txt": 514,
+    "en_dicts/cn_en_jiajia.txt": 514,
+    "en_dicts/cn_en_mspy.txt": 514,
+    "en_dicts/cn_en_sogou.txt": 514,
+    "en_dicts/cn_en_ziguang.txt": 514,
+    "en_dicts/en.dict.yaml": 21357,
+    "en_dicts/en_ext.dict.yaml": 2380,
+    "opencc/emoji.txt": 6657,
+    "opencc/others.txt": 2821,
+    "radical_pinyin.dict.yaml": 92551,
+    "rime_ice.dict.yaml": 47,
+    "symbols_caps_v.yaml": 4001,
+    "symbols_v.yaml": 4038
+  },
+  "source_manifest_sha256": "fb1e907de05498c3205803b91ba12264caf4ceb373889043f43e6b45c8d6f42a",
+  "source_unique_words": 1986007,
+  "vocabulary_scope": "baseline/automatic reading statuses are retained; source table adds independent explicit readings"
+}

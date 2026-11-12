@@ -7,6 +7,7 @@
 - CC-CEDICT：CC-CEDICT contributors / MDBG，历史CEDICT归属Paul Andrew Denisowski。核心、专名和CEDICT词级补充/儿化为派生数据，CC BY-SA 4.0。完整条款见`licenses/CC-BY-SA-4.0.txt`及`data/pinyin/phrases/NOTICE.md`，来源固定时间和转换步骤保留于manifest。保留归属、链接、修改告知并以相同许可分享适用改编数据，不暗示原作者认可。
 - jieba：Copyright (c) 2013 Sun Junyi，MIT；原始频次快照/许可/固定提交见`data/pinyin/phrases/sources/`及manifest。文字频率不等于读音频率；人工映射不冒称统计概率。
 - THUOCL：Tsinghua Open Chinese Lexicon，MIT；完整版权、引用、许可及转换读音来源见`data/pinyin/sources/thuocl/`与`data/pinyin/categories/NOTICE.md`。分类中的CEDICT派生读音仍保留其CC BY-SA义务，不以THUOCL的MIT覆盖。
+- 新增来源词表与本轮新增词目：iDvel/rime-ice contributors，固定提交`927e1cf1d3eeb9bf4be85e3f684dba4dd485b6f6`，上游声明GPL-3.0-only；完整条款见`data/pinyin/sources/rime_ice/LICENSE`，逐文件身份与转换说明见同目录manifest及`data/pinyin/rime_ice/NOTICE.md`。本次补齐静态词目并转换显式词组读音/权重，没有复制或执行上游输入法脚本。它不改变其他来源的许可，也不解决既有NOASSERTION数据的权利状态。
 
 0.1.0将既有公开数据从Flower仓库迁出，迁移前后默认201109个词对保持不变。0.2.0保留这些既有数据与许可，并增加独立词目集合及自动注音扩充表；没有读取/收录私有用户词、排序历史、聊天或配置。
 

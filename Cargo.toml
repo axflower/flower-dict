@@ -60,11 +60,17 @@ include = [
     "scripts/build_phrases.py",
     "scripts/build_categories.py",
     "scripts/build_vocabulary.py",
+    "scripts/sync_rime_ice.py",
+    "data/pinyin/rime_ice/lexicon.tsv",
+    "data/pinyin/rime_ice/coverage.json",
+    "data/pinyin/rime_ice/NOTICE.md",
+    "data/pinyin/sources/rime_ice/LICENSE",
+    "data/pinyin/sources/rime_ice/manifest.json",
     "data/pinyin/vocabulary/expanded.tsv",
     "data/pinyin/vocabulary/catalog.tsv",
     "data/pinyin/vocabulary/coverage.json",
     "data/pinyin/vocabulary/unresolved.txt",
-    "design/vocabulary-0.2.0.md",
+    "design/static-word-sync.md",
 ]
 
 [dependencies]
